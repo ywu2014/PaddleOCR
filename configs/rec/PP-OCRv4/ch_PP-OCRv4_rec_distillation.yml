@@ -1,17 +1,17 @@
 Global:
   debug: false
   use_gpu: true
-  epoch_num: 200
+  epoch_num: 20
   log_smooth_window: 20
   print_batch_step: 10
-  save_model_dir: ./output/rec_dkd_400w_svtr_ctc_lcnet_blank_dkd0.1/
+  save_model_dir: ./output/ch_PP-OCRv4_rec
   save_epoch_step: 40
   eval_batch_step:
   - 0
   - 2000
   cal_metric_during_train: true
   pretrained_model: null
-  checkpoints: ./output/rec_dkd_400w_svtr_ctc_lcnet_blank_dkd0.1/latest
+  checkpoints: ./pretrain_models/ch_PP-OCRv4_rec_train/student
   save_inference_dir: null
   use_visualdl: false
   infer_img: doc/imgs_words/ch/word_1.jpg
@@ -20,7 +20,7 @@ Global:
   infer_mode: false
   use_space_char: true
   distributed: true
-  save_res_path: ./output/rec/predicts_ppocrv3.txt
+  save_res_path: ./output/ch_PP-OCRv4_rec/predicts_ppocrv3.txt
 Optimizer:
   name: Adam
   beta1: 0.9
@@ -177,9 +177,9 @@ Metric:
 Train:
   dataset:
     name: SimpleDataSet
-    data_dir: ./train_data/
+    data_dir: ./train_data/ic15_data
     label_file_list:
-    - ./train_data/train_list.txt
+    - ./train_data/ic15_data/rec_gt_train.txt
     ratio_list:
     - 1.0
     transforms:
@@ -189,6 +189,8 @@ Train:
     - RecAug:
     - MultiLabelEncode:
         gtc_encode: NRTRLabelEncode
+    - RecResizeImg:
+        image_shape: [3, 48, 320]
     - KeepKeys:
         keep_keys:
         - image
@@ -198,16 +200,16 @@ Train:
         - valid_ratio
   loader:
     shuffle: true
-    batch_size_per_card: 128
+    batch_size_per_card: 8
     drop_last: true
     num_workers: 8
     use_shared_memory: true
 Eval:
   dataset:
     name: SimpleDataSet
-    data_dir: ./train_data
+    data_dir: ./train_data/ic15_data
     label_file_list:
-    - ./train_data/val_list.txt
+    - ./train_data/ic15_data/rec_gt_test.txt
     transforms:
     - DecodeImage:
         img_mode: BGR
@@ -226,6 +228,6 @@ Eval:
   loader:
     shuffle: false
     drop_last: false
-    batch_size_per_card: 128
+    batch_size_per_card: 8
     num_workers: 4
 profiler_options: null

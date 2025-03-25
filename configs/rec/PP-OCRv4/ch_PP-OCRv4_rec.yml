@@ -1,10 +1,10 @@
 Global:
   debug: false
   use_gpu: true
-  epoch_num: 200
+  epoch_num: 10
   log_smooth_window: 20
   print_batch_step: 10
-  save_model_dir: ./output/rec_ppocr_v4
+  save_model_dir: ./output/ch_PP-OCRv4_rec
   save_epoch_step: 10
   eval_batch_step: [0, 2000]
   cal_metric_during_train: true
@@ -18,7 +18,7 @@ Global:
   infer_mode: false
   use_space_char: true
   distributed: true
-  save_res_path: ./output/rec/predicts_ppocrv3.txt
+  save_res_path: ./output/ch_PP-OCRv4_rec/predicts_ppocrv3.txt
   d2s_train_image_shape: [3, 48, 320]
 
 
@@ -76,10 +76,10 @@ Train:
   dataset:
     name: MultiScaleDataSet
     ds_width: false
-    data_dir: ./train_data/
+    data_dir: ./train_data/ic15_data
     ext_op_transform_idx: 1
     label_file_list:
-    - ./train_data/train_list.txt
+    - ./train_data/ic15_data/rec_gt_train.txt
     transforms:
     - DecodeImage:
         img_mode: BGR
@@ -102,21 +102,24 @@ Train:
   sampler:
     name: MultiScaleSampler
     scales: [[320, 32], [320, 48], [320, 64]]
-    first_bs: &bs 192
+    # first_bs: &bs 192
+    first_bs: &bs 16 # 这个要改小点, 不然显存不够
     fix_bs: false
     divided_factor: [8, 16] # w, h
     is_training: True
   loader:
     shuffle: true
-    batch_size_per_card: *bs
+    # batch_size_per_card: *bs
+    batch_size_per_card: 1
     drop_last: true
-    num_workers: 8
+    # num_workers: 8
+    num_workers: 2
 Eval:
   dataset:
     name: SimpleDataSet
-    data_dir: ./train_data
+    data_dir: ./train_data/ic15_data
     label_file_list:
-    - ./train_data/val_list.txt
+    - ./train_data/ic15_data/rec_gt_test.txt
     transforms:
     - DecodeImage:
         img_mode: BGR
@@ -135,5 +138,5 @@ Eval:
   loader:
     shuffle: false
     drop_last: false
-    batch_size_per_card: 128
-    num_workers: 4
+    batch_size_per_card: 1
+    num_workers: 2
