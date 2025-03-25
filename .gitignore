@@ -7,7 +7,9 @@ __pycache__/
 # C extensions
 *.so
 
-inference/
+inference/out
+inference/data
+inference/ch_PP-OCRv4
 inference_results/
 output/
 train_data/
