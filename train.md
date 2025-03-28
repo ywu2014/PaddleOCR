@@ -1,6 +1,9 @@
 ## 模型训练
 ### 检测模型
 ```
+python tools/train.py -c configs/det/ch_PP-OCRv4/ch_PP-OCRv4_det_cml.yml
+```
+```
 python tools/train.py -c configs/det/ch_PP-OCRv4/ch_PP-OCRv4_det_cml.yml \
      -o Global.pretrained_model=./pretrain_models/ch_PP-OCRv4_det_train/best_accuracy
 ```
