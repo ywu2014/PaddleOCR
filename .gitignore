@@ -9,7 +9,8 @@ __pycache__/
 
 inference/out
 inference/data
-inference/ch_PP-OCRv4
+inference/ch_PP-OCRv4_det
+inference/ch_PP-OCRv4_rec
 inference_results/
 output/
 train_data/

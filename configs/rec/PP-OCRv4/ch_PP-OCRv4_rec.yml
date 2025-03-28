@@ -1,14 +1,14 @@
 Global:
   debug: false
   use_gpu: true
-  epoch_num: 10
+  epoch_num: 1000
   log_smooth_window: 20
   print_batch_step: 10
   save_model_dir: ./output/ch_PP-OCRv4_rec
-  save_epoch_step: 10
+  save_epoch_step: 50
   eval_batch_step: [0, 2000]
   cal_metric_during_train: true
-  pretrained_model:
+  pretrained_model: ./pretrain_models/ch_PP-OCRv4_rec_train/student
   checkpoints:
   save_inference_dir:
   use_visualdl: false
@@ -76,10 +76,10 @@ Train:
   dataset:
     name: MultiScaleDataSet
     ds_width: false
-    data_dir: ./train_data/ic15_data
+    data_dir: ./train_data/drawing/rec
     ext_op_transform_idx: 1
     label_file_list:
-    - ./train_data/ic15_data/rec_gt_train.txt
+    - ./train_data/drawing/rec/train.txt
     transforms:
     - DecodeImage:
         img_mode: BGR
@@ -117,9 +117,9 @@ Train:
 Eval:
   dataset:
     name: SimpleDataSet
-    data_dir: ./train_data/ic15_data
+    data_dir: ./train_data/drawing/rec
     label_file_list:
-    - ./train_data/ic15_data/rec_gt_test.txt
+    - ./train_data/drawing/rec/val.txt
     transforms:
     - DecodeImage:
         img_mode: BGR
