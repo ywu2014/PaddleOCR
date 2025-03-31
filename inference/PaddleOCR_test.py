@@ -35,7 +35,7 @@ scores = [line[1][1] for line in result]
 # im_show.save(out_path, quality=100)
 
 # 自己画吧
-result_name = 'feature1_result4'
+result_name = 'feature1_result5'
 image = plt.imread(img_path)
 canvas = drawBoxes(image, boxes, thickness=1)
 text_seq = draw_ocr_seq(canvas, boxes, txts, scores, font_path='/home/linkedata/projects/ai/MultiModal/ocr/data/font/simfang.ttf')
