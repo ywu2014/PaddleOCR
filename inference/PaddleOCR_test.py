@@ -8,7 +8,11 @@ import matplotlib.pyplot as plt
 # to switch the language model in order
 rec_model_dir='./inference/ch_PP-OCRv4_rec'
 det_model_dir='./inference/ch_PP-OCRv4_det/Student'
-ocr = PaddleOCR(use_angle_cls=True, rec_model_dir=rec_model_dir, det_model_dir=det_model_dir) 
+# ocr = PaddleOCR(use_angle_cls=True, rec_model_dir=rec_model_dir, det_model_dir=det_model_dir) 
+ocr = PaddleOCR(
+        use_angle_cls=True, rec_model_dir=rec_model_dir, det_model_dir=det_model_dir,
+        det_db_thresh=0.2, det_db_box_thresh=0.5, drop_score=0.3    # 降低检测阈值, 有些漏检的会检测到
+    ) 
 out_dir = './inference/out'
 img_dir = './inference/data'
 
