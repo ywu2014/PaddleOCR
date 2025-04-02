@@ -1,14 +1,14 @@
 Global:
   debug: false
-  use_gpu: true
+  use_gpu: true # 是否使用GPU训练
   epoch_num: 1000
   log_smooth_window: 20
   print_batch_step: 10
   save_model_dir: ./output/ch_PP-OCRv4_rec
-  save_epoch_step: 50
+  save_epoch_step: 50 # 每50个epoch保存一下训练结果
   eval_batch_step: [0, 2000]
   cal_metric_during_train: true
-  pretrained_model: ./pretrain_models/ch_PP-OCRv4_rec_train/student
+  pretrained_model: ./pretrain_models/ch_PP-OCRv4_rec_train/student # 预训练模型
   checkpoints:
   save_inference_dir:
   use_visualdl: false
@@ -28,7 +28,7 @@ Optimizer:
   beta2: 0.999
   lr:
     name: Cosine
-    learning_rate: 0.001
+    learning_rate: 0.001  # 学习率
     warmup_epoch: 5
   regularizer:
     name: L2
@@ -76,10 +76,10 @@ Train:
   dataset:
     name: MultiScaleDataSet
     ds_width: false
-    data_dir: ./train_data/drawing/rec
+    data_dir: ./train_data/drawing/rec  # 训练集
     ext_op_transform_idx: 1
     label_file_list:
-    - ./train_data/drawing/rec/train.txt
+    - ./train_data/drawing/rec/train.txt  # 训练集标签
     transforms:
     - DecodeImage:
         img_mode: BGR
@@ -110,16 +110,16 @@ Train:
   loader:
     shuffle: true
     # batch_size_per_card: *bs
-    batch_size_per_card: 1
+    batch_size_per_card: 1  # 显存不够时这里也可以改小点
     drop_last: true
     # num_workers: 8
     num_workers: 2
 Eval:
   dataset:
     name: SimpleDataSet
-    data_dir: ./train_data/drawing/rec
+    data_dir: ./train_data/drawing/rec  # 验证集
     label_file_list:
-    - ./train_data/drawing/rec/val.txt
+    - ./train_data/drawing/rec/val.txt  # 验证集标签
     transforms:
     - DecodeImage:
         img_mode: BGR

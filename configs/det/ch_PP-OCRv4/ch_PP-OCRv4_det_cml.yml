@@ -1,17 +1,17 @@
 Global:
   debug: false
-  use_gpu: true
+  use_gpu: true # 是否使用GPU训练
   epoch_num: 1000
   log_smooth_window: 20
   print_batch_step: 20
   save_model_dir: ./output/ch_PP-OCRv4_det
-  save_epoch_step: 50
+  save_epoch_step: 50 # 每50个epoch保存一下训练结果
   eval_batch_step:
   - 0
   - 1000
   cal_metric_during_train: false
   checkpoints: null
-  pretrained_model: ./pretrain_models/ch_PP-OCRv4_det_train/best_accuracy
+  pretrained_model: ./pretrain_models/ch_PP-OCRv4_det_train/best_accuracy # 预训练模型
   save_inference_dir: null
   use_visualdl: false
   infer_img: doc/imgs_en/img_10.jpg
@@ -115,7 +115,7 @@ Optimizer:
   beta2: 0.999
   lr:
     name: Cosine
-    learning_rate: 0.001
+    learning_rate: 0.001  # 学习率
     warmup_epoch: 2
   regularizer:
     name: L2
@@ -137,9 +137,9 @@ Metric:
 Train:
   dataset:
     name: SimpleDataSet
-    data_dir: ./train_data/drawing/det
+    data_dir: ./train_data/drawing/det  # 训练集
     label_file_list:
-      - ./train_data/drawing/det/train.txt
+      - ./train_data/drawing/det/train.txt  # 训练集标签
     ratio_list: [1.0]
     transforms:
     - DecodeImage:
@@ -199,14 +199,14 @@ Train:
     shuffle: true
     drop_last: false
     # batch_size_per_card: 16
-    batch_size_per_card: 8
+    batch_size_per_card: 8  # 爆显存时可以适当调小一点
     num_workers: 8
 Eval:
   dataset:
     name: SimpleDataSet
-    data_dir: ./train_data/drawing/det
+    data_dir: ./train_data/drawing/det  # 验证集
     label_file_list:
-      - ./train_data/drawing/det/val.txt
+      - ./train_data/drawing/det/val.txt  # 验证集标签
     transforms:
     - DecodeImage:
         img_mode: BGR

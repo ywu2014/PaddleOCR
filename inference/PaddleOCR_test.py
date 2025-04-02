@@ -8,6 +8,7 @@ import matplotlib.pyplot as plt
 # to switch the language model in order
 rec_model_dir='./inference/ch_PP-OCRv4_rec'
 det_model_dir='./inference/ch_PP-OCRv4_det/Student'
+# ocr = PaddleOCR() 
 # ocr = PaddleOCR(use_angle_cls=True, rec_model_dir=rec_model_dir, det_model_dir=det_model_dir) 
 ocr = PaddleOCR(
         use_angle_cls=True, rec_model_dir=rec_model_dir, det_model_dir=det_model_dir,
