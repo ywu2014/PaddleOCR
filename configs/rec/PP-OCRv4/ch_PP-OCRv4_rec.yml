@@ -5,7 +5,7 @@ Global:
   log_smooth_window: 20
   print_batch_step: 10
   save_model_dir: ./output/ch_PP-OCRv4_rec
-  save_epoch_step: 50 # 每50个epoch保存一下训练结果
+  save_epoch_step: 100 # 每50个epoch保存一下训练结果
   eval_batch_step: [0, 2000]
   cal_metric_during_train: true
   pretrained_model: ./pretrain_models/ch_PP-OCRv4_rec_train/student # 预训练模型
@@ -103,14 +103,16 @@ Train:
     name: MultiScaleSampler
     scales: [[320, 32], [320, 48], [320, 64]]
     # first_bs: &bs 192
-    first_bs: &bs 16 # 这个要改小点, 不然显存不够
+    # first_bs: &bs 16 # 这个要改小点, 不然显存不够
+    first_bs: &bs 32 # 这个要改小点, 不然显存不够
     fix_bs: false
     divided_factor: [8, 16] # w, h
     is_training: True
   loader:
     shuffle: true
     # batch_size_per_card: *bs
-    batch_size_per_card: 1  # 显存不够时这里也可以改小点
+    # batch_size_per_card: 8  # 显存不够时这里也可以改小点
+    batch_size_per_card: 16  # 显存不够时这里也可以改小点
     drop_last: true
     # num_workers: 8
     num_workers: 2

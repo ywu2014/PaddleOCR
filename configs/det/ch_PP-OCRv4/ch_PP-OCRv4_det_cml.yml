@@ -5,7 +5,7 @@ Global:
   log_smooth_window: 20
   print_batch_step: 20
   save_model_dir: ./output/ch_PP-OCRv4_det
-  save_epoch_step: 50 # 每50个epoch保存一下训练结果
+  save_epoch_step: 100 # 每50个epoch保存一下训练结果
   eval_batch_step:
   - 0
   - 1000
@@ -199,7 +199,7 @@ Train:
     shuffle: true
     drop_last: false
     # batch_size_per_card: 16
-    batch_size_per_card: 8  # 爆显存时可以适当调小一点
+    batch_size_per_card: 16  # 爆显存时可以适当调小一点
     num_workers: 8
 Eval:
   dataset:
