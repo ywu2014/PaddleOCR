@@ -11,6 +11,7 @@ inference/out
 inference/data
 inference/ch_PP-OCRv4_det
 inference/ch_PP-OCRv4_rec
+inference/250328
 inference_results/
 output/
 train_data/
