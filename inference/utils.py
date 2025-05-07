@@ -121,13 +121,13 @@ def draw_ocr_seq(
         # print(bubble_pt)
         # print(type(bubble_pt))
 
-        cv2.circle(image, bubble_pt, 10, color=(250,125,120), thickness=-1)
+        cv2.circle(image, bubble_pt, 20, color=(250,125,120), thickness=-1)
 
         if seq < 10:
-            text_pt = (bubble_pt[0] - 5, bubble_pt[1] + 5)
+            text_pt = (bubble_pt[0] - 10, bubble_pt[1] + 10)
         else:
-            text_pt = (bubble_pt[0] - 10, bubble_pt[1] + 5)
-        cv2.putText(image, str(seq), text_pt, cv2.FONT_HERSHEY_PLAIN, 1, (255, 255, 255), thickness=1, lineType=cv2.LINE_AA, bottomLeftOrigin=None)
+            text_pt = (bubble_pt[0] - 20, bubble_pt[1] + 10)
+        cv2.putText(image, str(seq), text_pt, cv2.FONT_HERSHEY_PLAIN, 2, (255, 255, 255), thickness=1, lineType=cv2.LINE_AA, bottomLeftOrigin=None)
 
         # 输出内容
         if txts is not None:
