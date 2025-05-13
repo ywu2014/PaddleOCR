@@ -12,9 +12,11 @@ inference/data
 inference/ch_PP-OCRv4_det
 inference/ch_PP-OCRv4_rec
 inference/250328
+inference/250422
+inference/bak
 inference_results/
 output/
-train_data/
+# train_data/
 log/
 *.DS_Store
 *.vs
