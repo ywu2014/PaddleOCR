@@ -1,0 +1,1845 @@
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/469_crop_0.jpg	AA
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/37_crop_21.jpg	4×直径:7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/180_crop_29.jpg	14
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/493_crop_7.jpg	18
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/275_crop_10.jpg	深度:4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/462_crop_3.jpg	10.4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/174_crop_5.jpg	02-0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/268_crop_6.jpg	37
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/37_crop_51.jpg	68
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/72_crop_31.jpg	1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/161_crop_0.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/147_crop_6.jpg	直径:1H7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/438_crop_9.jpg	31.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/15_crop_22.jpg	24
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/88_crop_11.jpg	21±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/391_crop_5.jpg	63.80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/354_crop_4.jpg	70.10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/299_crop_11.jpg	112.33±0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/33_crop_32.jpg	30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/8_crop_34.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/175_crop_2.jpg	垂直度:0.025:B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/320_crop_5.jpg	74.40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/279_crop_17.jpg	R1.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/257_crop_2.jpg	跳动:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/500_crop_9.jpg	7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/407_crop_31.jpg	124.30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/353_crop_7.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/285_crop_23.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/71_crop_4.jpg	直径:1.01
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/81_crop_23.jpg	直径:15.50(0, -0.2)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/281_crop_7.jpg	8±0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/45_crop_30.jpg	8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/308_crop_7.jpg	3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/20_crop_11.jpg	4×直径:10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/313_crop_11.jpg	0.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/220_crop_22.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/373_crop_13.jpg	31±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/71_crop_12.jpg	8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/431_crop_13.jpg	110
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/433_crop_13.jpg	150
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/286_crop_21.jpg	22
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/171_crop_0.jpg	直径:29(+0.4, +0.3)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/227_crop_8.jpg	22.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/458_crop_4.jpg	11
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/156_crop_55.jpg	120°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/331_crop_10.jpg	1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/485_crop_2.jpg	2±0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/257_crop_3.jpg	3 x M5-6H
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/429_crop_12.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/204_crop_1.jpg	0.75
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/515_crop_2.jpg	(10 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/403_crop_5.jpg	R1. 50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/155_crop_31.jpg	20°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/394_crop_17.jpg	66
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/36_crop_9.jpg	直径:24.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/225_crop_10.jpg	11.60
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/5_crop_24.jpg	30°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/198_crop_30.jpg	垂直度:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/122_crop_50.jpg	55.6(0, -0.5)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/425_crop_1.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/133_crop_6.jpg	12
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/370_crop_9.jpg	50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/242_crop_14.jpg	30°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/318_crop_1.jpg	68
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/375_crop_6.jpg	直径:33.52
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/5_crop_19.jpg	直径:4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/72_crop_27.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/99_crop_1.jpg	L=138
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/10_crop_9.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/132_crop_12.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/388_crop_14.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/72_crop_9.jpg	37
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/254_crop_48.jpg	50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/263_crop_2.jpg	21
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/156_crop_46.jpg	49
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/141_crop_5.jpg	0.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/75_crop_55.jpg	垂直度:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/373_crop_12.jpg	II
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/374_crop_36.jpg	直径:24
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/281_crop_6.jpg	H-H
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/449_crop_0.jpg	直径:4.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/156_crop_51.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/42_crop_4.jpg	平行度:0.030:B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/142_crop_5.jpg	39.85
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/503_crop_8.jpg	11.5(0, -0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/136_crop_4.jpg	对称度:0.05:A|C
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/441_crop_1.jpg	位置公差:直径:0.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/411_crop_18.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/344_crop_9.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/239_crop_1.jpg	K-K
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/260_crop_33.jpg	96
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/365_crop_2.jpg	798
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/305_crop_23.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/326_crop_23.jpg	85.30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/162_crop_4.jpg	45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/342_crop_19.jpg	61
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/209_crop_1.jpg	直径:4(+0.012, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/209_crop_19.jpg	20°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/410_crop_16.jpg	0.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/244_crop_17.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/89_crop_10.jpg	2-0.5 × 45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/61_crop_8.jpg	4-直径:0.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/168_crop_17.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/156_crop_9.jpg	(4 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/392_crop_7.jpg	H-H
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/356_crop_13.jpg	40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/349_crop_21.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/327_crop_24.jpg	165.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/27_crop_18.jpg	23
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/18_crop_12.jpg	R8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/5_crop_9.jpg	直径:16
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/36_crop_31.jpg	45
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/313_crop_17.jpg	56.50(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/221_crop_6.jpg	2-R0.75
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/373_crop_58.jpg	直度:0.01
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/364_crop_6.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/442_crop_2.jpg	直径:40 H7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/256_crop_38.jpg	114
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/223_crop_23.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/385_crop_12.jpg	5.7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/1_crop_14.jpg	直径:60
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/251_crop_34.jpg	224
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/222_crop_22.jpg	26.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/331_crop_12.jpg	10-1.6(+0.2, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/249_crop_39.jpg	745
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/13_crop_5.jpg	R200
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/469_crop_5.jpg	直径:32(0, -0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/353_crop_9.jpg	2-R5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/428_crop_19.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/302_crop_9.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/335_crop_6.jpg	9.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/303_crop_4.jpg	31
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/223_crop_18.jpg	54.90±0.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/380_crop_18.jpg	H
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/14_crop_18.jpg	2-直径:8深31
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/410_crop_12.jpg	02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/472_crop_1.jpg	R1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/327_crop_3.jpg	10.4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/91_crop_3.jpg	直径:3 f8 (-0.0006, -0.020)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/168_crop_4.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/438_crop_11.jpg	位置公差:直径:0.2:A|B|C
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/37_crop_47.jpg	18
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/513_crop_4.jpg	18
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/270_crop_1.jpg	500
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/95_crop_47.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/124_crop_2.jpg	0.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/387_crop_6.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/163_crop_20.jpg	直径:2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/205_crop_2.jpg	M4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/294_crop_22.jpg	30°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/249_crop_16.jpg	80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/117_crop_4.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/343_crop_1.jpg	4-C2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/38_crop_7.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/180_crop_6.jpg	M5-7H
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/260_crop_30.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/248_crop_14.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/155_crop_8.jpg	12
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/414_crop_1.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/312_crop_33.jpg	深度:12
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/230_crop_15.jpg	26
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/262_crop_13.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/336_crop_12.jpg	384.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/33_crop_11.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/373_crop_41.jpg	深度:4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/501_crop_1.jpg	2×M4-6g
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/164_crop_66.jpg	62.70
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/214_crop_5.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/244_crop_14.jpg	15
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/310_crop_4.jpg	236
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/14_crop_32.jpg	33
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/113_crop_67.jpg	R0.75
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/88_crop_25.jpg	7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/418_crop_4.jpg	(15)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/247_crop_20.jpg	35
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/225_crop_21.jpg	直径:3.30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/37_crop_9.jpg	2-M6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/139_crop_20.jpg	(82.6)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/234_crop_3.jpg	44
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/198_crop_51.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/412_crop_10.jpg	68
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/447_crop_2.jpg	直径:30mm
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/431_crop_12.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/106_crop_14.jpg	55.1±0.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/312_crop_13.jpg	9
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/217_crop_14.jpg	(4 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/75_crop_34.jpg	2 : 1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/420_crop_10.jpg	平行度:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/145_crop_17.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/322_crop_1.jpg	66
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/2_crop_15.jpg	直径:85(_0.022, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/17_crop_4.jpg	2×45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/442_crop_4.jpg	位置公差:直径:0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/249_crop_41.jpg	深度:13
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/369_crop_10.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/242_crop_11.jpg	48.90
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/336_crop_2.jpg	183.80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/392_crop_14.jpg	垂直度:0.05:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/393_crop_1.jpg	66
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/58_crop_0.jpg	 A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/67_crop_3.jpg	直径:1.4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/110_crop_10.jpg	67.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/331_crop_7.jpg	6.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/388_crop_4.jpg	59.90
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/36_crop_29.jpg	199
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/407_crop_12.jpg	7-M4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/325_crop_15.jpg	105
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/252_crop_0.jpg	粗糙度:12.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/435_crop_7.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/42_crop_0.jpg	D-D
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/198_crop_41.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/229_crop_6.jpg	2 × 45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/305_crop_4.jpg	33.66
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/388_crop_3.jpg	82
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/91_crop_4.jpg	20°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/128_crop_10.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/423_crop_2.jpg	1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/225_crop_72.jpg	直径:1.50 H7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/221_crop_60.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/302_crop_1.jpg	平整度:0.002
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/420_crop_2.jpg	6H7 (2x)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/354_crop_1.jpg	8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/1_crop_3.jpg	直径:140
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/122_crop_30.jpg	直径:24.4(-0.04, -0.08)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/351_crop_15.jpg	50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/263_crop_31.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/87_crop_19.jpg	直径:9(0, -0.2)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/110_crop_33.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/96_crop_16.jpg	8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/1_crop_5.jpg	35
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/442_crop_0.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/390_crop_2.jpg	23±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/180_crop_16.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/75_crop_72.jpg	直径:4(+0.015, +0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/8_crop_24.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/225_crop_43.jpg	42.90±0.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/312_crop_40.jpg	25.98
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/342_crop_21.jpg	111
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/286_crop_4.jpg	22
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/121_crop_27.jpg	46
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/311_crop_20.jpg	6.06
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/378_crop_12.jpg	R1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/466_crop_5.jpg	35(-0.1, -0.2)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/53_crop_7.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/357_crop_4.jpg	2-R3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/235_crop_16.jpg	58
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/198_crop_67.jpg	直径:7(-0.3, -0.5)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/486_crop_3.jpg	直径:28(0, -0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/2_crop_9.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/221_crop_59.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/312_crop_4.jpg	4 x M5-6H
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/461_crop_5.jpg	(35)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/262_crop_15.jpg	35
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/374_crop_38.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/257_crop_4.jpg	同心度:直径:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/37_crop_15.jpg	直径:60
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/13_crop_7.jpg	40°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/407_crop_25.jpg	25.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/15_crop_18.jpg	粗糙度:6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/403_crop_3.jpg	R1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/227_crop_12.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/57_crop_2.jpg	直径:1(-0.006, -0.012)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/210_crop_0.jpg	B-B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/341_crop_10.jpg	40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/199_crop_29.jpg	20°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/199_crop_17.jpg	垂直度:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/109_crop_15.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/506_crop_0.jpg	3±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/312_crop_22.jpg	1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/393_crop_27.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/332_crop_30.jpg	26
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/220_crop_32.jpg	直径:16(-0.01, -0.03)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/20_crop_13.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/332_crop_27.jpg	12.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/385_crop_22.jpg	54
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/430_crop_3.jpg	位置公差:直径:0.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/243_crop_4.jpg	位置公差:直径:0.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/372_crop_42.jpg	5(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/207_crop_48.jpg	21
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/335_crop_11.jpg	400
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/221_crop_33.jpg	3.25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/332_crop_17.jpg	17.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/299_crop_26.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/223_crop_25.jpg	37
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/262_crop_7.jpg	32
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/150_crop_4.jpg	93.2±0.07
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/389_crop_3.jpg	4 x M6-6H
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/8_crop_31.jpg	8±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/7_crop_1.jpg	1：1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/72_crop_29.jpg	49
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/35_crop_7.jpg	R75
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/347_crop_11.jpg	160
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/355_crop_25.jpg	3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/245_crop_20.jpg	96
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/284_crop_0.jpg	1116. 50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/168_crop_22.jpg	9
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/113_crop_50.jpg	2-0.5×45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/109_crop_74.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/320_crop_4.jpg	2-R2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/445_crop_7.jpg	R5 (4×)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/37_crop_43.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/57_crop_0.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/86_crop_0.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/113_crop_51.jpg	直径:1.5H7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/351_crop_2.jpg	R3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/349_crop_11.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/55_crop_4.jpg	直径:40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/34_crop_5.jpg	直径:56
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/300_crop_11.jpg	10.4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/333_crop_0.jpg	12
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/323_crop_1.jpg	26±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/7_crop_9.jpg	44
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/263_crop_33.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/276_crop_5.jpg	30°±0.05°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/278_crop_12.jpg	45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/495_crop_5.jpg	9.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/222_crop_29.jpg	3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/150_crop_7.jpg	40°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/193_crop_5.jpg	1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/353_crop_12.jpg	94°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/65_crop_16.jpg	B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/410_crop_0.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/138_crop_7.jpg	30°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/217_crop_39.jpg	3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/31_crop_1.jpg	6×直径:7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/311_crop_27.jpg	23
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/72_crop_14.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/394_crop_7.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/58_crop_2.jpg	L=138; 148; 158
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/24_crop_1.jpg	直径:40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/286_crop_23.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/409_crop_0.jpg	457.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/462_crop_5.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/492_crop_0.jpg	1.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/2_crop_14.jpg	60(-0.10, -0.29)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/276_crop_2.jpg	H-H
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/284_crop_10.jpg	8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/89_crop_23.jpg	(4 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/279_crop_20.jpg	31±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/132_crop_0.jpg	直径:8(+0.05, +0.02)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/388_crop_10.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/102_crop_0.jpg	138
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/235_crop_5.jpg	直径:4.20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/442_crop_3.jpg	8±0.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/97_crop_3.jpg	(16.10)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/157_crop_2.jpg	直径:3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/153_crop_27.jpg	M4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/332_crop_32.jpg	34.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/55_crop_16.jpg	417
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/411_crop_11.jpg	7.67±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/38_crop_2.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/373_crop_19.jpg	III
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/135_crop_4.jpg	1.37
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/225_crop_36.jpg	(4 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/45_crop_0.jpg	260
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/304_crop_13.jpg	10.65
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/263_crop_17.jpg	30±0.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/225_crop_4.jpg	同心度:直径:0.03:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/122_crop_11.jpg	11.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/95_crop_27.jpg	(4 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/301_crop_0.jpg	直径:25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/112_crop_20.jpg	0.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/155_crop_7.jpg	8(+0.01, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/108_crop_37.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/37_crop_23.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/371_crop_7.jpg	45
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/480_crop_7.jpg	25°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/222_crop_39.jpg	直径:3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/497_crop_14.jpg	R1.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/313_crop_1.jpg	(10 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/247_crop_15.jpg	直径:40 H10(+0.100, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/242_crop_19.jpg	45.80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/175_crop_12.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/74_crop_11.jpg	8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/183_crop_0.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/254_crop_36.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/186_crop_3.jpg	SR0.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/4_crop_5.jpg	8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/317_crop_20.jpg	228
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/260_crop_31.jpg	50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/5_crop_13.jpg	70
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/163_crop_1.jpg	直径:3 H7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/206_crop_7.jpg	39
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/515_crop_12.jpg	18
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/422_crop_12.jpg	105
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/388_crop_11.jpg	4 x M8-6H
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/97_crop_0.jpg	粗糙度:6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/312_crop_35.jpg	9
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/259_crop_43.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/488_crop_1.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/260_crop_46.jpg	2-M5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/252_crop_5.jpg	12.30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/416_crop_6.jpg	18
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/224_crop_61.jpg	41.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/364_crop_0.jpg	304
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/243_crop_3.jpg	4-直径:5.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/119_crop_34.jpg	1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/96_crop_24.jpg	垂直度:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/75_crop_42.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/71_crop_6.jpg	(10 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/207_crop_3.jpg	B-B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/252_crop_1.jpg	600
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/317_crop_13.jpg	250
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/338_crop_4.jpg	160(0, -0.5)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/486_crop_1.jpg	edges rounded
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/281_crop_47.jpg	直径:24(0, -0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/35_crop_9.jpg	R5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/189_crop_2.jpg	直径:31
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/344_crop_4.jpg	75
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/335_crop_28.jpg	18.30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/386_crop_8.jpg	340
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/83_crop_1.jpg	0.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/8_crop_2.jpg	6xM6-6H8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/189_crop_4.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/122_crop_57.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/456_crop_1.jpg	位置公差:直径:0.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/305_crop_14.jpg	10.65
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/388_crop_25.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/94_crop_9.jpg	49
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/216_crop_0.jpg	0.30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/171_crop_6.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/218_crop_72.jpg	49
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/253_crop_40.jpg	26.41
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/373_crop_27.jpg	1 × 30°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/298_crop_0.jpg	2:1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/312_crop_15.jpg	30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/163_crop_27.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/135_crop_2.jpg	直径:4(-0.02, -0.05)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/44_crop_0.jpg	R10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/164_crop_1.jpg	粗糙度:6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/349_crop_0.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/220_crop_0.jpg	直径:7.50(-0.3, -0.5)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/76_crop_3.jpg	直径:3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/66_crop_6.jpg	30°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/272_crop_6.jpg	112
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/329_crop_25.jpg	253.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/374_crop_32.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/110_crop_38.jpg	M4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/454_crop_19.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/8_crop_6.jpg	6×M6-6H8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/386_crop_2.jpg	307.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/348_crop_12.jpg	50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/113_crop_27.jpg	1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/253_crop_28.jpg	深度:5.70
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/322_crop_2.jpg	50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/248_crop_18.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/385_crop_7.jpg	70
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/258_crop_44.jpg	134(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/217_crop_26.jpg	25°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/168_crop_16.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/300_crop_17.jpg	平整度:0.002
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/430_crop_2.jpg	直径:5.5 (4x)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/95_crop_37.jpg	垂直度:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/297_crop_14.jpg	11
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/218_crop_19.jpg	D-D
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/156_crop_35.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/315_crop_2.jpg	307.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/388_crop_15.jpg	85
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/407_crop_27.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/455_crop_2.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/440_crop_8.jpg	7.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/293_crop_10.jpg	直径:3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/199_crop_33.jpg	M3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/259_crop_19.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/222_crop_38.jpg	5±0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/501_crop_11.jpg	直径:24(-0.02, -0.07)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/12_crop_34.jpg	25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/29_crop_0.jpg	S直径:40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/36_crop_14.jpg	C1.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/214_crop_2.jpg	0.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/254_crop_10.jpg	15.25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/155_crop_6.jpg	0.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/207_crop_62.jpg	直径:3(+0.15, +0.10)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/244_crop_28.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/33_crop_30.jpg	直径:20H7(+0.021, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/98_crop_4.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/383_crop_18.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/329_crop_9.jpg	34.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/34_crop_3.jpg	直径:46
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/153_crop_35.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/261_crop_17.jpg	8±0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/459_crop_1.jpg	R1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/13_crop_2.jpg	直径:10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/107_crop_25.jpg	(82.6)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/106_crop_23.jpg	10.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/6_crop_9.jpg	与邻面相切
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/95_crop_12.jpg	直径:3(+0.01, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/382_crop_2.jpg	M19×0.75
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/136_crop_23.jpg	(31)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/440_crop_5.jpg	27
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/509_crop_5.jpg	直径:17
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/94_crop_6.jpg	26.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/143_crop_1.jpg	直径:1.4F7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/100_crop_0.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/351_crop_13.jpg	18
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/279_crop_29.jpg	45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/75_crop_25.jpg	同心度:直径:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/10_crop_12.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/155_crop_10.jpg	46
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/442_crop_6.jpg	位置公差:直径:0.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/87_crop_10.jpg	(4 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/6_crop_12.jpg	直径:20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/220_crop_27.jpg	3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/224_crop_12.jpg	0.25 × 45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/81_crop_26.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/58_crop_11.jpg	29
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/369_crop_0.jpg	4-R5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/51_crop_9.jpg	粗糙度:6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/199_crop_34.jpg	M3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/129_crop_0.jpg	4:1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/252_crop_28.jpg	26
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/147_crop_1.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/245_crop_17.jpg	H
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/447_crop_10.jpg	直径:26
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/244_crop_36.jpg	206.90
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/491_crop_3.jpg	1.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/156_crop_56.jpg	120°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/326_crop_31.jpg	14.80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/75_crop_81.jpg	5°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/235_crop_23.jpg	18
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/37_crop_28.jpg	直径:30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/293_crop_8.jpg	直径:21 H11
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/268_crop_4.jpg	位置公差:0.2:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/262_crop_25.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/300_crop_21.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/293_crop_29.jpg	R0,3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/311_crop_32.jpg	60°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/218_crop_58.jpg	直径:9.5(0, -0.2)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/109_crop_13.jpg	直径:3.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/94_crop_3.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/43_crop_19.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/63_crop_3.jpg	0.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/372_crop_34.jpg	R1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/354_crop_0.jpg	2-M6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/285_crop_5.jpg	30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/406_crop_1.jpg	(2 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/406_crop_11.jpg	 0.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/48_crop_35.jpg	直径:60H7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/113_crop_41.jpg	1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/357_crop_1.jpg	R3.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/369_crop_26.jpg	114
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/394_crop_1.jpg	19±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/164_crop_29.jpg	(4 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/244_crop_50.jpg	位置公差:直径:0.2:A|B|C
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/198_crop_13.jpg	2-0.2 × 45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/224_crop_3.jpg	同心度:直径:0.03:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/210_crop_2.jpg	M3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/281_crop_3.jpg	跳动:0.01:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/182_crop_2.jpg	SR0.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/422_crop_3.jpg	170
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/244_crop_37.jpg	146.90
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/308_crop_0.jpg	25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/109_crop_49.jpg	14.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/500_crop_2.jpg	2±0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/258_crop_18.jpg	R6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/257_crop_24.jpg	20.15 
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/328_crop_2.jpg	34.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/29_crop_4.jpg	粗糙度:6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/246_crop_17.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/137_crop_8.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/247_crop_28.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/100_crop_5.jpg	直径:1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/315_crop_6.jpg	80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/266_crop_11.jpg	11
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/281_crop_12.jpg	2x直径:4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/429_crop_2.jpg	60
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/305_crop_12.jpg	直径:3.05(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/349_crop_8.jpg	19
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/198_crop_64.jpg	47
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/37_crop_10.jpg	C
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/249_crop_28.jpg	55
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/322_crop_21.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/388_crop_8.jpg	沉孔或锪平:直径:11
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/109_crop_73.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/107_crop_19.jpg	B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/248_crop_10.jpg	2 x  直径:9
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/427_crop_3.jpg	59
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/254_crop_50.jpg	2-直径:6 H7(+0.012, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/168_crop_5.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/384_crop_20.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/374_crop_41.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/225_crop_5.jpg	B-B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/103_crop_8.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/223_crop_40.jpg	M4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/245_crop_14.jpg	112
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/155_crop_3.jpg	直径:16(-0.01, -0.03)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/27_crop_3.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/373_crop_2.jpg	66.50±0.03
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/88_crop_18.jpg	8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/332_crop_22.jpg	107.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/298_crop_5.jpg	(2 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/235_crop_4.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/335_crop_25.jpg	343
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/187_crop_8.jpg	36°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/355_crop_22.jpg	200
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/371_crop_9.jpg	45
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/16_crop_25.jpg	直径:5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/456_crop_4.jpg	90°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/89_crop_29.jpg	47.10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/457_crop_2.jpg	50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/222_crop_26.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/103_crop_7.jpg	12
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/280_crop_26.jpg	直径:19.40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/387_crop_3.jpg	2-直径:5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/406_crop_3.jpg	183.80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/456_crop_13.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/108_crop_15.jpg	1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/417_crop_18.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/74_crop_21.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/366_crop_6.jpg	409
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/29_crop_10.jpg	粗糙度:6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/341_crop_16.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/326_crop_52.jpg	136.60
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/221_crop_43.jpg	直径:10 H7 (+0.015, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/218_crop_27.jpg	直径:15.5(0, -0.2)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/120_crop_3.jpg	直径:10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/411_crop_6.jpg	3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/10_crop_4.jpg	直径:35K6(+0.018, -0.002)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/384_crop_0.jpg	K-K
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/331_crop_4.jpg	170.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/119_crop_5.jpg	直径:16(-0.01, -0.03)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/359_crop_5.jpg	780
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/473_crop_3.jpg	位置公差:直径:0.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/137_crop_3.jpg	3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/101_crop_9.jpg	3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/22_crop_6.jpg	直径:11
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/334_crop_3.jpg	4-直径:9.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/53_crop_0.jpg	粗糙度:12.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/503_crop_1.jpg	平行度:0.03:B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/108_crop_26.jpg	26.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/257_crop_17.jpg	I 20.15
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/19_crop_13.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/255_crop_4.jpg	 直径:1570.80 x 0°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/263_crop_35.jpg	1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/258_crop_5.jpg	同心度:直径:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/163_crop_26.jpg	7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/25_crop_0.jpg	直径:22(+0.021, -0.015)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/5_crop_25.jpg	R2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/46_crop_2.jpg	38
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/109_crop_69.jpg	27
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/50_crop_19.jpg	R27
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/244_crop_26.jpg	80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/49_crop_26.jpg	40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/45_crop_21.jpg	粗糙度:25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/250_crop_4.jpg	3(0, -0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/165_crop_0.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/334_crop_21.jpg	7.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/230_crop_30.jpg	30°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/317_crop_9.jpg	 11 6.80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/228_crop_0.jpg	130
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/281_crop_13.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/207_crop_31.jpg	M4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/258_crop_42.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/256_crop_2.jpg	跳动:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/393_crop_10.jpg	14(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/33_crop_4.jpg	粗糙度:12.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/327_crop_5.jpg	直径:3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/50_crop_10.jpg	直径:45
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/35_crop_5.jpg	120+0.30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/481_crop_1.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/355_crop_17.jpg	1100
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/370_crop_3.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/466_crop_12.jpg	35
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/469_crop_9.jpg	直径:35
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/37_crop_5.jpg	直径:12
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/280_crop_8.jpg	直径:30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/373_crop_51.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/482_crop_1.jpg	R3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/447_crop_0.jpg	44.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/9_crop_11.jpg	1.25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/10_crop_11.jpg	对称度:0.05:D
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/243_crop_14.jpg	77.90±0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/47_crop_22.jpg	65
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/130_crop_10.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/389_crop_11.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/23_crop_11.jpg	3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/388_crop_13.jpg	250
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/16_crop_32.jpg	直径:6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/329_crop_3.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/394_crop_29.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/131_crop_10.jpg	15.7(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/156_crop_5.jpg	垂直度:直径:0.03:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/338_crop_2.jpg	4-C2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/106_crop_18.jpg	5 : 1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/505_crop_7.jpg	粗糙度:2.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/109_crop_40.jpg	8(0, -0.01)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/25_crop_6.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/488_crop_3.jpg	0.5x45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/412_crop_4.jpg	02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/41_crop_9.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/186_crop_4.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/218_crop_57.jpg	直径:1.50 H7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/9_crop_0.jpg	70°±30′
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/122_crop_76.jpg	39
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/95_crop_44.jpg	68.28°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/326_crop_35.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/342_crop_24.jpg	782
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/495_crop_3.jpg	直径:18
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/220_crop_13.jpg	(4 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/45_crop_4.jpg	20.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/508_crop_0.jpg	(10 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/373_crop_47.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/208_crop_1.jpg	9
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/264_crop_2.jpg	11.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/450_crop_5.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/429_crop_13.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/61_crop_12.jpg	直径:1.40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/108_crop_18.jpg	24.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/217_crop_9.jpg	7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/224_crop_33.jpg	25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/198_crop_40.jpg	直径:10 (+0.015, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/220_crop_31.jpg	67.60
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/287_crop_4.jpg	C0.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/218_crop_12.jpg	垂直度:直径:0.03:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/7_crop_2.jpg	直径:20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/459_crop_11.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/481_crop_3.jpg	位置公差:直径:0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/207_crop_23.jpg	直径:16(-0.01, -0.03)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/221_crop_44.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/299_crop_5.jpg	0.80 × 45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/442_crop_10.jpg	直径:10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/164_crop_10.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/38_crop_9.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/58_crop_10.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/370_crop_17.jpg	15
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/225_crop_7.jpg	M4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/438_crop_7.jpg	位置公差:直径:0.02:A|B|C
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/254_crop_8.jpg	17
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/185_crop_16.jpg	直径:26
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/466_crop_0.jpg	29
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/137_crop_13.jpg	B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/110_crop_30.jpg	49
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/263_crop_32.jpg	直径:58
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/417_crop_8.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/207_crop_6.jpg	D-D
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/25_crop_5.jpg	61
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/373_crop_20.jpg	(4 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/416_crop_21.jpg	2.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/252_crop_20.jpg	13
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/185_crop_20.jpg	垂直度:0.03:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/243_crop_1.jpg	6. 3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/326_crop_36.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/110_crop_35.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/131_crop_1.jpg	同心度:直径:0.025:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/156_crop_58.jpg	直径:1.5 H7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/232_crop_0.jpg	790
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/99_crop_5.jpg	4-直径:0.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/96_crop_11.jpg	M4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/497_crop_15.jpg	R1.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/157_crop_0.jpg	32.7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/21_crop_5.jpg	40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/372_crop_27.jpg	直径:20.6 H11(+0.130, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/440_crop_6.jpg	25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/198_crop_34.jpg	1.95
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/355_crop_15.jpg	532.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/169_crop_1.jpg	73.70
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/12_crop_17.jpg	粗糙度:6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/506_crop_1.jpg	1.9(0, -0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/243_crop_22.jpg	30°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/432_crop_6.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/403_crop_0.jpg	I
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/81_crop_56.jpg	21
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/75_crop_40.jpg	直径:3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/262_crop_9.jpg	2-直径:6H7 (+0.012, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/444_crop_0.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/299_crop_9.jpg	3.60(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/218_crop_43.jpg	60
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/260_crop_48.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/83_crop_2.jpg	0.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/228_crop_1.jpg	110
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/286_crop_10.jpg	直径:15
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/12_crop_36.jpg	36
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/323_crop_10.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/225_crop_3.jpg	(4 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/155_crop_4.jpg	直径:3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/351_crop_7.jpg	290
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/22_crop_12.jpg	直径:21
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/509_crop_10.jpg	10.8(0, -0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/28_crop_4.jpg	3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/36_crop_17.jpg	2×0.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/342_crop_25.jpg	788
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/207_crop_7.jpg	0.5 × 45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/270_crop_7.jpg	460
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/45_crop_14.jpg	E-E
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/326_crop_45.jpg	101
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/373_crop_7.jpg	直径:37.26
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/221_crop_10.jpg	1 × 20°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/121_crop_19.jpg	0.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/262_crop_11.jpg	直径:45
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/372_crop_58.jpg	直径:16
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/223_crop_39.jpg	9
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/16_crop_14.jpg	27
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/372_crop_56.jpg	30°±0.05°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/23_crop_2.jpg	R8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/194_crop_12.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/262_crop_27.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/464_crop_3.jpg	31
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/257_crop_22.jpg	11.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/387_crop_4.jpg	10.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/392_crop_26.jpg	60
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/326_crop_12.jpg	156.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/248_crop_17.jpg	位置公差:直径:0.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/21_crop_2.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/50_crop_9.jpg	R1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/98_crop_0.jpg	8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/321_crop_24.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/317_crop_14.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/239_crop_13.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/321_crop_19.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/121_crop_21.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/247_crop_25.jpg	23.25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/423_crop_7.jpg	6H7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/416_crop_15.jpg	(2.5)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/81_crop_46.jpg	直径:1.50H7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/36_crop_19.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/265_crop_18.jpg	15°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/249_crop_45.jpg	180
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/179_crop_6.jpg	3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/294_crop_23.jpg	直度:0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/156_crop_65.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/461_crop_4.jpg	H
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/61_crop_4.jpg	(10 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/497_crop_5.jpg	35(0, -0.2)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/260_crop_23.jpg	直径:48.30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/216_crop_4.jpg	15°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/85_crop_6.jpg	15°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/366_crop_5.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/233_crop_9.jpg	4-C5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/287_crop_15.jpg	95
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/222_crop_31.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/8_crop_19.jpg	直径:78
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/99_crop_6.jpg	直度:0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/293_crop_3.jpg	平行度:0,02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/428_crop_5.jpg	63.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/185_crop_7.jpg	直径:23.40 (-0.05, -0.10)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/24_crop_2.jpg	80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/417_crop_15.jpg	12
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/348_crop_7.jpg	直径:20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/87_crop_24.jpg	49
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/263_crop_18.jpg	(20 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/62_crop_9.jpg	15°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/250_crop_13.jpg	R0.20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/109_crop_60.jpg	1.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/426_crop_2.jpg	(134)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/158_crop_0.jpg	7.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/244_crop_25.jpg	9.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/136_crop_16.jpg	10.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/227_crop_10.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/303_crop_0.jpg	直径:23
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/17_crop_10.jpg	7×直径:8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/265_crop_5.jpg	同心度:直径:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/119_crop_2.jpg	直径:7.5(-0.3, -0.5)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/72_crop_33.jpg	7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/407_crop_38.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/43_crop_15.jpg	直径:43
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/41_crop_7.jpg	直径:14D11(-0.050, -0.160)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/258_crop_16.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/74_crop_34.jpg	M4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/43_crop_21.jpg	38
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/328_crop_19.jpg	243
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/99_crop_7.jpg	直径:1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/392_crop_20.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/81_crop_53.jpg	直径:3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/357_crop_0.jpg	2-R3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/332_crop_28.jpg	R1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/374_crop_2.jpg	36.48±0.03
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/181_crop_3.jpg	34.80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/246_crop_14.jpg	22
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/48_crop_6.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/343_crop_12.jpg	25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/264_crop_12.jpg	19.90
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/411_crop_17.jpg	(2:1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/411_crop_0.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/214_crop_6.jpg	15°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/109_crop_56.jpg	62.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/471_crop_3.jpg	0.5 × 45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/207_crop_57.jpg	47
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/434_crop_9.jpg	位置公差:直径:0.2:A|B|C
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/454_crop_4.jpg	16.45(0, -0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/470_crop_0.jpg	7.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/164_crop_8.jpg	 M4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/122_crop_44.jpg	2-0.5×45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/42_crop_24.jpg	5:1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/258_crop_23.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/383_crop_23.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/198_crop_38.jpg	M4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/487_crop_1.jpg	7.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/335_crop_3.jpg	11.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/36_crop_35.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/139_crop_17.jpg	D
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/332_crop_12.jpg	87.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/253_crop_33.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/220_crop_3.jpg	直径:24.40(-0.04, -0.08)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/388_crop_5.jpg	40.10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/164_crop_33.jpg	直径:24.4(-0.04, -0.08)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/330_crop_22.jpg	87.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/198_crop_31.jpg	14.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/112_crop_22.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/268_crop_7.jpg	48
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/250_crop_19.jpg	15°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/361_crop_9.jpg	2-直径:9
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/13_crop_3.jpg	R30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/16_crop_18.jpg	78
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/434_crop_10.jpg	位置公差:直径:0.02:A|B|C
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/488_crop_2.jpg	18.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/8_crop_16.jpg	直径:78
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/109_crop_27.jpg	2 :1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/113_crop_69.jpg	20°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/431_crop_9.jpg	位置公差:直径:0.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/406_crop_7.jpg	178.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/109_crop_75.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/65_crop_3.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/310_crop_5.jpg	260(0, -0.5)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/132_crop_6.jpg	21±0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/142_crop_7.jpg	直径:1.4±0.03
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/74_crop_10.jpg	8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/412_crop_26.jpg	直径:2.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/19_crop_0.jpg	C1.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/372_crop_55.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/36_crop_10.jpg	2×CM5/8.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/374_crop_7.jpg	62.24
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/112_crop_16.jpg	直径:16(-0.01, -0.03)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/199_crop_20.jpg	0.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/156_crop_61.jpg	1.7 H7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/194_crop_19.jpg	22.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/438_crop_6.jpg	直径:4.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/320_crop_8.jpg	63.80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/518_crop_7.jpg	2.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/29_crop_8.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/440_crop_4.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/511_crop_0.jpg	3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/156_crop_28.jpg	11.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/225_crop_8.jpg	直径:10 H7 (+0.015, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/475_crop_7.jpg	2°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/55_crop_36.jpg	80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/362_crop_7.jpg	45
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/5_crop_20.jpg	直径:16
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/20_crop_10.jpg	R43
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/391_crop_0.jpg	4-R1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/155_crop_18.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/153_crop_29.jpg	9
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/136_crop_18.jpg	14
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/207_crop_54.jpg	直径:7(-0.3, -0.5)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/48_crop_14.jpg	D
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/106_crop_15.jpg	64.9±0.06
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/388_crop_7.jpg	18
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/321_crop_23.jpg	直径:11
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/249_crop_19.jpg	430
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/383_crop_8.jpg	70
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/218_crop_4.jpg	(4 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/254_crop_46.jpg	26.41
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/98_crop_1.jpg	0.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/389_crop_13.jpg	直径:40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/218_crop_59.jpg	直径:9(0, -0.2)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/317_crop_22.jpg	深度:6.80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/122_crop_72.jpg	21
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/390_crop_8.jpg	50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/53_crop_12.jpg	直径:52f8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/11_crop_6.jpg	直径:70
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/286_crop_3.jpg	直径:26
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/271_crop_9.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/281_crop_22.jpg	(2 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/217_crop_27.jpg	5±0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/372_crop_20.jpg	(2 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/411_crop_15.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/455_crop_8.jpg	Gravur:
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/122_crop_51.jpg	62.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/273_crop_9.jpg	40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/166_crop_3.jpg	直径:3 f8(-0.01, -0.02)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/280_crop_45.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/180_crop_25.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/249_crop_31.jpg	165
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/180_crop_2.jpg	对称度:0.05:A|C
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/406_crop_0.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/299_crop_4.jpg	直径:16
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/137_crop_6.jpg	B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/431_crop_29.jpg	02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/466_crop_4.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/437_crop_6.jpg	48(0, -0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/335_crop_12.jpg	153.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/100_crop_11.jpg	直径:1.20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/10_crop_27.jpg	76
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/218_crop_34.jpg	E-E
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/181_crop_0.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/251_crop_2.jpg	直径:45
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/90_crop_1.jpg	直径:4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/37_crop_55.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/26_crop_8.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/163_crop_24.jpg	垂直度:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/89_crop_31.jpg	53.30±0.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/38_crop_8.jpg	B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/367_crop_0.jpg	2-R5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/261_crop_3.jpg	4-M5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/503_crop_4.jpg	直径:4.8±0.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/153_crop_21.jpg	直径:9(0, -0.2)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/408_crop_16.jpg	54.30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/28_crop_10.jpg	14°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/86_crop_4.jpg	直径:4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/113_crop_65.jpg	1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/7_crop_11.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/36_crop_1.jpg	R
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/104_crop_0.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/24_crop_7.jpg	70
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/191_crop_10.jpg	直径:1.8(0, -0.05)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/440_crop_17.jpg	66
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/31_crop_18.jpg	R22
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/27_crop_12.jpg	R15
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/1_crop_7.jpg	直径:40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/281_crop_42.jpg	跳动:0.1:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/65_crop_8.jpg	B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/340_crop_17.jpg	3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/299_crop_10.jpg	8±0.03
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/281_crop_35.jpg	11(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/142_crop_22.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/374_crop_8.jpg	2x直径:4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/199_crop_24.jpg	46
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/252_crop_3.jpg	4-直径:9
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/277_crop_0.jpg	R0.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/164_crop_23.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/212_crop_1.jpg	直径:3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/265_crop_23.jpg	C1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/9_crop_14.jpg	直径:65(+0.030, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/319_crop_5.jpg	70±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/446_crop_2.jpg	直径:40 g6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/304_crop_2.jpg	直径:29.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/336_crop_7.jpg	178.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/15_crop_11.jpg	27
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/87_crop_0.jpg	7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/250_crop_5.jpg	直径:11±0.10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/164_crop_20.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/87_crop_12.jpg	26.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/229_crop_8.jpg	110
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/5_crop_48.jpg	R5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/501_crop_12.jpg	10.5(0, -0.2)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/374_crop_3.jpg	跳动:0.01:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/335_crop_26.jpg	47°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/137_crop_2.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/9_crop_8.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/27_crop_1.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/436_crop_0.jpg	25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/211_crop_1.jpg	106
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/392_crop_21.jpg	直径:11
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/312_crop_1.jpg	R50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/248_crop_5.jpg	2-1 × 30°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/48_crop_8.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/344_crop_5.jpg	455
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/122_crop_15.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/193_crop_2.jpg	直径:18
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/254_crop_41.jpg	30.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/516_crop_12.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/237_crop_3.jpg	11
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/412_crop_3.jpg	0.7±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/407_crop_17.jpg	直径:6.40×90°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/293_crop_13.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/225_crop_32.jpg	直径:24.40(-0.04, 00.08)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/249_crop_40.jpg	777.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/253_crop_8.jpg	17
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/312_crop_14.jpg	R1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/250_crop_15.jpg	0.5×30°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/8_crop_17.jpg	直径:85
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/337_crop_4.jpg	430
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/55_crop_15.jpg	377
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/281_crop_39.jpg	3.60(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/296_crop_9.jpg	0.5x45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/133_crop_5.jpg	37
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/224_crop_51.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/481_crop_5.jpg	10 × 45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/95_crop_62.jpg	39
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/45_crop_7.jpg	直径:55±0.01
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/122_crop_79.jpg	53.3±0.06
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/220_crop_15.jpg	65.30±0.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/262_crop_24.jpg	8±0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/245_crop_16.jpg	47
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/38_crop_25.jpg	45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/138_crop_1.jpg	直径:1.4F7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/384_crop_7.jpg	5.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/10_crop_3.jpg	粗糙度:12.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/284_crop_6.jpg	1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/392_crop_2.jpg	1 × 45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/344_crop_16.jpg	98
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/117_crop_1.jpg	直径:1.5 m6 (+0.008, +0.002)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/12_crop_18.jpg	42
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/514_crop_8.jpg	12
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/159_crop_6.jpg	15°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/180_crop_37.jpg	M4-7H
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/347_crop_18.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/376_crop_10.jpg	20±0.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/48_crop_31.jpg	粗糙度:6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/220_crop_9.jpg	8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/286_crop_9.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/298_crop_10.jpg	直径:16
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/72_crop_25.jpg	65.3±0.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/460_crop_5.jpg	直径:23±0.03
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/193_crop_1.jpg	直径:31
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/385_crop_24.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/372_crop_41.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/298_crop_11.jpg	直径:25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/33_crop_19.jpg	粗糙度:12.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/301_crop_4.jpg	140.20(+0.04, -0.02)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/222_crop_10.jpg	68.28°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/260_crop_9.jpg	29. 44
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/222_crop_40.jpg	25°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/287_crop_14.jpg	直径:20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/156_crop_33.jpg	直径:16(-0.01, -0.03)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/206_crop_11.jpg	61
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/432_crop_0.jpg	13.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/218_crop_70.jpg	41.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/81_crop_49.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/246_crop_2.jpg	位置公差:直径:0.2:B|A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/108_crop_39.jpg	9.4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/455_crop_7.jpg	平整度:0.08
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/46_crop_6.jpg	4.30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/121_crop_9.jpg	25°±0.1°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/261_crop_29.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/62_crop_6.jpg	直径:1.85(0, -0.02)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/363_crop_0.jpg	400
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/298_crop_6.jpg	0.5 × 45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/109_crop_11.jpg	垂直度:直径:0.03:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/297_crop_8.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/370_crop_18.jpg	40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/516_crop_2.jpg	R0.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/345_crop_4.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/286_crop_20.jpg	160
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/391_crop_14.jpg	68
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/35_crop_2.jpg	直径:28±0.20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/420_crop_7.jpg	直径:9.5 (4x)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/384_crop_18.jpg	54
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/87_crop_16.jpg	直径:24.40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/105_crop_4.jpg	20°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/282_crop_5.jpg	22.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/229_crop_18.jpg	80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/246_crop_5.jpg	直径:5.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/156_crop_20.jpg	(4 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/389_crop_8.jpg	深度:14
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/47_crop_26.jpg	3.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/342_crop_13.jpg	882
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/108_crop_33.jpg	37
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/371_crop_5.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/263_crop_24.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/65_crop_7.jpg	L=138;148;158
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/95_crop_18.jpg	1 × 20°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/150_crop_0.jpg	K-K
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/247_crop_6.jpg	位置公差:直径:0.02:A|B|C
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/2_crop_12.jpg	直径:227.5(0, -0.029)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/485_crop_12.jpg	1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/246_crop_0.jpg	H-H
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/369_crop_22.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/371_crop_12.jpg	R3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/10_crop_10.jpg	直径:20r6(+0.041, +0.028)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/113_crop_12.jpg	R0.75
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/334_crop_7.jpg	123
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/411_crop_3.jpg	30°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/385_crop_19.jpg	70
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/41_crop_8.jpg	粗糙度:12.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/280_crop_48.jpg	直径:24
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/79_crop_3.jpg	2-0.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/294_crop_1.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/96_crop_13.jpg	8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/282_crop_2.jpg	3-直径:7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/408_crop_8.jpg	位置公差:直径:0.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/383_crop_16.jpg	12.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/217_crop_22.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/267_crop_7.jpg	25.40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/2_crop_7.jpg	齿部：T-G54
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/62_crop_3.jpg	0.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/482_crop_0.jpg	6(+0.2, +0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/251_crop_30.jpg	55
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/106_crop_17.jpg	D
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/409_crop_7.jpg	397.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/121_crop_12.jpg	M3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/119_crop_39.jpg	M4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/139_crop_25.jpg	49
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/373_crop_50.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/352_crop_11.jpg	15
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/225_crop_42.jpg	1.50 H7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/37_crop_34.jpg	直径:12
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/440_crop_3.jpg	B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/137_crop_16.jpg	直径:1.95(0, -0.05)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/81_crop_9.jpg	垂直度:直径:0.03:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/72_crop_38.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/409_crop_1.jpg	585
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/347_crop_6.jpg	直径:15
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/432_crop_2.jpg	34.55
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/110_crop_5.jpg	直径:16(-0.01, -0.03)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/271_crop_7.jpg	60
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/460_crop_8.jpg	12
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/481_crop_2.jpg	直径:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/172_crop_0.jpg	4:1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/221_crop_38.jpg	1.5 H7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/122_crop_0.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/269_crop_7.jpg	45
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/198_crop_63.jpg	39
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/58_crop_13.jpg	直径:1.40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/377_crop_3.jpg	直径:20.2(+0.2, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/38_crop_6.jpg	R0.4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/31_crop_26.jpg	45
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/25_crop_14.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/451_crop_0.jpg	10x45° (2x)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/458_crop_13.jpg	30°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/45_crop_11.jpg	148.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/28_crop_13.jpg	35
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/169_crop_4.jpg	直径:3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/14_crop_4.jpg	32
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/41_crop_5.jpg	30°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/302_crop_10.jpg	垂直度:0.1:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/4_crop_20.jpg	3×M59
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/393_crop_7.jpg	7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/156_crop_18.jpg	直径:24.4(-0.04, -0.08)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/34_crop_11.jpg	R7 50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/280_crop_39.jpg	深度:4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/165_crop_1.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/95_crop_48.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/487_crop_5.jpg	13,5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/180_crop_21.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/147_crop_12.jpg	直径:1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/221_crop_1.jpg	35±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/218_crop_24.jpg	同心度:直径:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/326_crop_55.jpg	66.10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/374_crop_52.jpg	45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/199_crop_8.jpg	9
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/417_crop_9.jpg	垂直度:0.03:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/244_crop_2.jpg	位置公差:直径:0.2:A|B|C
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/338_crop_7.jpg	3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/47_crop_29.jpg	M9×0.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/261_crop_13.jpg	平行度:0.03:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/385_crop_9.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/43_crop_16.jpg	60°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/245_crop_24.jpg	3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/89_crop_1.jpg	35±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/325_crop_10.jpg	105
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/174_crop_12.jpg	8(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/444_crop_4.jpg	6.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/109_crop_62.jpg	R0.75
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/374_crop_49.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/221_crop_14.jpg	C-C
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/504_crop_3.jpg	120°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/369_crop_4.jpg	23
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/208_crop_3.jpg	垂直度:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/218_crop_49.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/8_crop_14.jpg	直径:95h6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/200_crop_4.jpg	直径:2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/114_crop_2.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/87_crop_20.jpg	直径:7.5(-0.3, -0.5)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/353_crop_4.jpg	140
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/251_crop_23.jpg	位置公差:直径:0.4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/251_crop_24.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/81_crop_4.jpg	B-B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/62_crop_4.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/188_crop_1.jpg	45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/256_crop_18.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/122_crop_78.jpg	47.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/306_crop_2.jpg	直径:26
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/171_crop_5.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/209_crop_16.jpg	直径:3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/373_crop_28.jpg	M19×0.75
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/5_crop_22.jpg	直径:84
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/207_crop_35.jpg	12°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/319_crop_1.jpg	4-直径:8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/80_crop_1.jpg	M4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/113_crop_63.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/27_crop_8.jpg	85
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/275_crop_5.jpg	15.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/185_crop_4.jpg	同心度:直径:0.05:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/394_crop_27.jpg	54±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/49_crop_14.jpg	32°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/180_crop_30.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/452_crop_0.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/300_crop_26.jpg	粗糙度:0.4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/392_crop_12.jpg	直径:18
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/88_crop_17.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/336_crop_6.jpg	位置公差:直径:0.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/261_crop_6.jpg	6 F7 (+0.022, +0.010)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/113_crop_58.jpg	53.3±0.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/329_crop_1.jpg	10-1.6(+0.2, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/258_crop_3.jpg	3x M5-6H
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/47_crop_24.jpg	45
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/337_crop_5.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/5_crop_4.jpg	直径:4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/378_crop_14.jpg	15
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/110_crop_0.jpg	直径:15.5(0, -0.2)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/16_crop_10.jpg	66
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/434_crop_12.jpg	直径:4.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/254_crop_12.jpg	H
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/113_crop_34.jpg	直径:24.4(-0.04, -0.08)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/356_crop_2.jpg	50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/385_crop_13.jpg	平行度:0.03:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/73_crop_5.jpg	直径:10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/273_crop_10.jpg	50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/347_crop_4.jpg	直径:26
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/51_crop_16.jpg	粗糙度:12.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/248_crop_15.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/337_crop_0.jpg	457.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/406_crop_2.jpg	183.80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/286_crop_7.jpg	10.20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/279_crop_39.jpg	1.90(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/351_crop_4.jpg	800
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/369_crop_7.jpg	83.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/297_crop_12.jpg	直度:0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/411_crop_7.jpg	(12.12)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/51_crop_28.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/16_crop_17.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/180_crop_0.jpg	11.6°±0.2°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/456_crop_14.jpg	8.95
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/155_crop_29.jpg	同心度:直径:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/274_crop_6.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/156_crop_40.jpg	直径:2.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/233_crop_11.jpg	1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/218_crop_56.jpg	1.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/153_crop_25.jpg	5±0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/437_crop_2.jpg	76.45(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/225_crop_12.jpg	2-0.50 × 45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/323_crop_7.jpg	H-H
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/426_crop_3.jpg	R4 (2x)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/110_crop_23.jpg	D
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/106_crop_7.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/244_crop_32.jpg	338
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/274_crop_2.jpg	40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/353_crop_13.jpg	120
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/380_crop_8.jpg	R1.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/183_crop_1.jpg	M4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/108_crop_42.jpg	直径:3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/239_crop_4.jpg	61.40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/16_crop_26.jpg	粗糙度:6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/369_crop_16.jpg	1100
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/13_crop_0.jpg	250
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/175_crop_6.jpg	同心度:直径:0.025:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/37_crop_22.jpg	R6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/33_crop_8.jpg	粗糙度:12.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/315_crop_8.jpg	340
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/168_crop_12.jpg	68
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/89_crop_34.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/260_crop_18.jpg	3-直径:16.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/220_crop_25.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/126_crop_4.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/225_crop_39.jpg	14.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/265_crop_12.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/16_crop_2.jpg	直径:18
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/392_crop_1.jpg	直径:40 H7 (+0.021, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/12_crop_26.jpg	粗糙度:X
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/108_crop_0.jpg	直径:15.5(0, -0.2)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/87_crop_3.jpg	67.60
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/466_crop_1.jpg	15
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/224_crop_47.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/108_crop_20.jpg	B-B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/258_crop_39.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/411_crop_12.jpg	0.5x45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/259_crop_4.jpg	3-直径:11
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/441_crop_8.jpg	1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/153_crop_38.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/14_crop_11.jpg	2-直径:3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/332_crop_19.jpg	326.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/137_crop_12.jpg	L=138;148;158
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/110_crop_32.jpg	9
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/430_crop_4.jpg	位置公差:直径:0,02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/38_crop_21.jpg	0.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/336_crop_14.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/89_crop_19.jpg	直径:9(0, -0.2)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/412_crop_13.jpg	45±0,2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/287_crop_19.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/31_crop_23.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/235_crop_15.jpg	40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/109_crop_70.jpg	37
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/336_crop_10.jpg	1.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/175_crop_18.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/434_crop_14.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/488_crop_6.jpg	直径:21
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/89_crop_22.jpg	直径:3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/224_crop_27.jpg	直径:3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/113_crop_80.jpg	39
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/486_crop_6.jpg	直径:21
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/322_crop_12.jpg	5±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/405_crop_3.jpg	2-R1.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/493_crop_3.jpg	12,5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/243_crop_23.jpg	3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/43_crop_11.jpg	直径:55
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/253_crop_16.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/379_crop_0.jpg	41.63±0.03
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/278_crop_5.jpg	直径:17.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/281_crop_27.jpg	45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/8_crop_35.jpg	直径:40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/393_crop_2.jpg	 50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/360_crop_2.jpg	409
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/280_crop_41.jpg	直径:16
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/222_crop_34.jpg	7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/431_crop_26.jpg	02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/322_crop_17.jpg	1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/515_crop_5.jpg	15
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/239_crop_14.jpg	C1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/253_crop_31.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/16_crop_0.jpg	72
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/253_crop_42.jpg	51.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/373_crop_45.jpg	直径:20.6 H11 (+0.130, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/412_crop_0.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/335_crop_8.jpg	3x直径:3.40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/99_crop_0.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/98_crop_2.jpg	2.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/256_crop_3.jpg	3 x M5-6H
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/81_crop_35.jpg	垂直度:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/21_crop_7.jpg	30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/218_crop_45.jpg	垂直度:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/392_crop_9.jpg	64
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/52_crop_12.jpg	160
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/472_crop_2.jpg	R1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/9_crop_3.jpg	25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/15_crop_16.jpg	G1/2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/224_crop_1.jpg	35±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/279_crop_16.jpg	10±0.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/393_crop_4.jpg	2直径:-3.4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/477_crop_8.jpg	12.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/458_crop_9.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/96_crop_9.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/336_crop_9.jpg	68.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/231_crop_6.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/71_crop_0.jpg	 A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/328_crop_12.jpg	130
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/8_crop_9.jpg	49
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/89_crop_35.jpg	M4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/433_crop_2.jpg	21.95(0, -0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/4_crop_17.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/223_crop_5.jpg	直径:16(-0.01, -0.03)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/198_crop_39.jpg	12°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/153_crop_26.jpg	50°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/392_crop_23.jpg	40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/314_crop_8.jpg	65
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/447_crop_8.jpg	直径:(37,13)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/198_crop_56.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/443_crop_6.jpg	26
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/253_crop_3.jpg	38
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/518_crop_17.jpg	2±0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/25_crop_8.jpg	22
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/332_crop_23.jpg	170
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/374_crop_12.jpg	44.48
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/389_crop_12.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/393_crop_5.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/66_crop_0.jpg	直径:1.4F7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/420_crop_8.jpg	位置公差:直径:0.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/408_crop_17.jpg	18.30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/169_crop_3.jpg	直径:16
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/225_crop_13.jpg	1 × 20°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/175_crop_16.jpg	3(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/216_crop_2.jpg	直径:1.50 m6 (+0.008, +0.002)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/345_crop_1.jpg	235
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/250_crop_1.jpg	3.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/164_crop_52.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/281_crop_10.jpg	直径:16
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/385_crop_8.jpg	5.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/247_crop_24.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/441_crop_3.jpg	02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/18_crop_7.jpg	同心度:直径:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/449_crop_5.jpg	47.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/265_crop_15.jpg	垂直度:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/96_crop_18.jpg	M3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/164_crop_55.jpg	1.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/9_crop_1.jpg	粗糙度:0.16
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/189_crop_1.jpg	18.80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/48_crop_40.jpg	直径:93
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/347_crop_1.jpg	粗糙度:6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/329_crop_19.jpg	位置公差:0.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/518_crop_15.jpg	7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/437_crop_11.jpg	B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/156_crop_60.jpg	3.25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/415_crop_4.jpg	直径:22.6(0, -0.3)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/5_crop_42.jpg	29
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/300_crop_1.jpg	平行度:0.002:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/234_crop_5.jpg	22.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/367_crop_13.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/77_crop_2.jpg	0.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/252_crop_7.jpg	4-直径:6 H7 (+0.012, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/393_crop_11.jpg	12±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/388_crop_1.jpg	157
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/188_crop_2.jpg	1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/429_crop_6.jpg	平行度:0.03:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/326_crop_13.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/164_crop_58.jpg	40°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/107_crop_26.jpg	5±0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/14_crop_21.jpg	28
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/126_crop_3.jpg	2-0.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/55_crop_28.jpg	8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/37_crop_40.jpg	7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/323_crop_13.jpg	3.5(0, -0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/441_crop_2.jpg	C-C
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/37_crop_52.jpg	54
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/104_crop_5.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/407_crop_3.jpg	4-直径:9.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/255_crop_8.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/119_crop_36.jpg	7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/456_crop_3.jpg	平行度:0.1:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/274_crop_11.jpg	40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/258_crop_33.jpg	130.90 
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/418_crop_3.jpg	B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/170_crop_4.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/199_crop_13.jpg	直径:3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/229_crop_10.jpg	30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/21_crop_9.jpg	R50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/283_crop_3.jpg	104
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/486_crop_8.jpg	20°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/109_crop_41.jpg	9(0, -0.2)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/374_crop_4.jpg	跳动:0.01:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/37_crop_27.jpg	55
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/208_crop_8.jpg	直径:2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/348_crop_2.jpg	3 × 30°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/220_crop_39.jpg	68.28°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/207_crop_66.jpg	120°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/27_crop_15.jpg	140
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/131_crop_11.jpg	直径:2(+0.02, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/357_crop_5.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/142_crop_2.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/356_crop_8.jpg	5-R5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/244_crop_43.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/130_crop_7.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/275_crop_3.jpg	8±0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/199_crop_32.jpg	5±0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/230_crop_10.jpg	深度:10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/249_crop_32.jpg	165
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/216_crop_6.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/207_crop_17.jpg	同心度:直径:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/217_crop_31.jpg	1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/455_crop_13.jpg	825
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/22_crop_3.jpg	C2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/72_crop_8.jpg	26.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/122_crop_48.jpg	14.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/374_crop_29.jpg	5(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/298_crop_21.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/300_crop_4.jpg	H-H
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/509_crop_1.jpg	18.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/12_crop_11.jpg	直径:10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/122_crop_9.jpg	M4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/428_crop_11.jpg	B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/407_crop_19.jpg	400
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/335_crop_24.jpg	18.30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/96_crop_23.jpg	46
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/447_crop_7.jpg	跳动:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/232_crop_3.jpg	110
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/261_crop_10.jpg	25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/136_crop_8.jpg	M5-7H
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/375_crop_2.jpg	跳动:0.01:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/47_crop_6.jpg	直径:8(+0.015, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/236_crop_7.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/134_crop_0.jpg	直径:6(+0.012, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/191_crop_6.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/174_crop_10.jpg	5.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/156_crop_42.jpg	25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/343_crop_9.jpg	15
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/296_crop_5.jpg	3.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/304_crop_3.jpg	直径:26
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/217_crop_15.jpg	54.90±0.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/156_crop_16.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/221_crop_17.jpg	(4 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/176_crop_0.jpg	直径:8(+0.05, +0.02)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/124_crop_0.jpg	直径:3 f8 (-0.008, -0.02)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/252_crop_41.jpg	1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/13_crop_15.jpg	R5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/437_crop_15.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/150_crop_5.jpg	1.1°±15′
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/221_crop_18.jpg	直径:3.30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/281_crop_31.jpg	直径:19.40(0, -0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/256_crop_15.jpg	R0.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/112_crop_6.jpg	直径:4(+0.1, +0.05)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/259_crop_45.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/113_crop_0.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/264_crop_16.jpg	8°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/219_crop_2.jpg	0.30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/122_crop_22.jpg	直径:1.5H7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/394_crop_26.jpg	47±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/176_crop_2.jpg	30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/106_crop_10.jpg	直径:24.4(-0.04, -0.08)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/294_crop_0.jpg	0.8x45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/330_crop_14.jpg	73.60
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/155_crop_13.jpg	8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/48_crop_9.jpg	圆度:0.010
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/4_crop_24.jpg	直径:12 6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/35_crop_3.jpg	15±0.20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/180_crop_33.jpg	2.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/219_crop_1.jpg	0.30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/425_crop_6.jpg	45
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/123_crop_5.jpg	直径:3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/331_crop_8.jpg	11
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/332_crop_20.jpg	316
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/351_crop_3.jpg	215
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/252_crop_23.jpg	位置公差:直径:0.04
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/373_crop_53.jpg	直径:16
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/88_crop_13.jpg	46
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/373_crop_31.jpg	R1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/65_crop_1.jpg	2:1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/372_crop_48.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/64_crop_16.jpg	同心度:直径:00.05:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/81_crop_55.jpg	直径:7.50(-0.3, -0.5)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/327_crop_4.jpg	12.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/389_crop_7.jpg	9.9(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/261_crop_20.jpg	平整度:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/260_crop_2.jpg	47
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/251_crop_25.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/209_crop_5.jpg	同心度:直径:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/373_crop_42.jpg	直径:34.42±0.01
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/383_crop_12.jpg	24.4±0.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/420_crop_11.jpg	12
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/20_crop_4.jpg	R15.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/267_crop_6.jpg	R2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/16_crop_4.jpg	粗糙度:6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/130_crop_11.jpg	4.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/218_crop_46.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/88_crop_30.jpg	同心度:直径:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/252_crop_22.jpg	80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/16_crop_20.jpg	3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/134_crop_5.jpg	60±0.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/218_crop_62.jpg	120°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/249_crop_24.jpg	100
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/155_crop_25.jpg	20°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/225_crop_60.jpg	39
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/164_crop_61.jpg	直径:3(+0.01, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/294_crop_25.jpg	30°±0.05°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/17_crop_16.jpg	4x直径:8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/43_crop_25.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/230_crop_26.jpg	3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/110_crop_36.jpg	8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/96_crop_12.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/260_crop_49.jpg	18
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/326_crop_53.jpg	105
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/225_crop_62.jpg	47.10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/403_crop_2.jpg	12.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/69_crop_5.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/108_crop_16.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/280_crop_17.jpg	(2 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/132_crop_15.jpg	直径:26(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/275_crop_7.jpg	2×直径:4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/133_crop_1.jpg	直径:9
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/73_crop_6.jpg	直径:4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/243_crop_13.jpg	57±0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/471_crop_5.jpg	直径:31.4(0, -0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/244_crop_7.jpg	位置公差:直径:0.2:A|B|C
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/297_crop_11.jpg	30°±0.05°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/95_crop_23.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/176_crop_1.jpg	对称度:0.04:B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/160_crop_0.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/167_crop_2.jpg	0.3 x 45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/299_crop_27.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/49_crop_16.jpg	90
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/252_crop_31.jpg	26
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/95_crop_55.jpg	1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/434_crop_13.jpg	位置公差:直径:0.2:A|B|C
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/7_crop_15.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/260_crop_32.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/512_crop_0.jpg	0.5 × 45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/514_crop_1.jpg	(10 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/516_crop_0.jpg	直径:6(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/391_crop_10.jpg	145°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/225_crop_61.jpg	43
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/326_crop_25.jpg	60.30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/230_crop_0.jpg	80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/114_crop_5.jpg	直径:3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/442_crop_12.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/131_crop_14.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/199_crop_14.jpg	垂直度:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/75_crop_75.jpg	R0.75
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/221_crop_20.jpg	同心度:直径:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/6_crop_4.jpg	圆角R2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/156_crop_10.jpg	1 × 20°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/109_crop_8.jpg	2 : 1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/516_crop_9.jpg	45.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/504_crop_0.jpg	23.4±0.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/355_crop_6.jpg	16-直径:7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/112_crop_21.jpg	0.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/412_crop_18.jpg	2.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/133_crop_4.jpg	60
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/242_crop_24.jpg	C1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/208_crop_9.jpg	直径:3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/220_crop_12.jpg	26.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/243_crop_17.jpg	28.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/19_crop_8.jpg	C1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/500_crop_3.jpg	1.5(+0.2, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/251_crop_5.jpg	4-M5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/158_crop_4.jpg	20°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/443_crop_3.jpg	55
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/378_crop_1.jpg	(2 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/454_crop_10.jpg	Schrifthoehe: 5mm
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/367_crop_9.jpg	(29.82)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/62_crop_7.jpg	直径:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/51_crop_12.jpg	3.4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/273_crop_14.jpg	45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/294_crop_5.jpg	0.5x45°(2x)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/9_crop_12.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/374_crop_30.jpg	R1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/31_crop_3.jpg	直径:116
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/380_crop_1.jpg	直度:0.01
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/510_crop_0.jpg	直径:10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/347_crop_8.jpg	直径:23
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/472_crop_0.jpg	3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/107_crop_3.jpg	直径:5.4(-0.1, -0.15)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/345_crop_3.jpg	500
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/72_crop_21.jpg	26.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/153_crop_37.jpg	8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/251_crop_3.jpg	直径:40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/301_crop_6.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/140_crop_6.jpg	28
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/50_crop_6.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/331_crop_26.jpg	316
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/254_crop_5.jpg	38
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/108_crop_7.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/347_crop_17.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/373_crop_35.jpg	3.60(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/334_crop_2.jpg	9.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/199_crop_4.jpg	同心度:直径:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/140_crop_2.jpg	29
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/280_crop_40.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/325_crop_12.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/379_crop_7.jpg	67.39
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/334_crop_34.jpg	43(+0.3, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/22_crop_9.jpg	直径:20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/206_crop_12.jpg	67
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/391_crop_8.jpg	1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/19_crop_5.jpg	80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/218_crop_0.jpg	K-K
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/258_crop_22.jpg	C1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/8_crop_11.jpg	60°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/417_crop_20.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/282_crop_7.jpg	104
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/107_crop_33.jpg	M4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/112_crop_7.jpg	同心度:直径:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/190_crop_8.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/433_crop_19.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/279_crop_51.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/447_crop_11.jpg	直径:42
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/373_crop_49.jpg	直径:19.40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/156_crop_26.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/107_crop_31.jpg	9
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/383_crop_9.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/326_crop_46.jpg	9
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/87_crop_7.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/287_crop_16.jpg	50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/500_crop_6.jpg	M7x0.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/251_crop_13.jpg	68
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/264_crop_7.jpg	0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/142_crop_19.jpg	2(+0.3, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/139_crop_14.jpg	直径:16(-0.01, -0.03)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/440_crop_9.jpg	7.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/243_crop_20.jpg	直径:26
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/5_crop_7.jpg	直径:22
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/243_crop_15.jpg	28.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/179_crop_7.jpg	0.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/36_crop_32.jpg	165(0, -0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/140_crop_11.jpg	15 : 1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/458_crop_6.jpg	直度:0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/306_crop_12.jpg	42
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/332_crop_7.jpg	242
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/4_crop_4.jpg	Rc1/4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/374_crop_23.jpg	3.60(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/279_crop_54.jpg	跳动:0.1:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/516_crop_7.jpg	17.50±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/113_crop_44.jpg	F-F
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/311_crop_26.jpg	28.20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/113_crop_49.jpg	同心度:直径:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/177_crop_4.jpg	37
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/505_crop_5.jpg	直径:2(+0.2, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/245_crop_11.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/96_crop_21.jpg	21
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/281_crop_33.jpg	0.60
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/25_crop_1.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/274_crop_3.jpg	H-H
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/256_crop_9.jpg	 20.15
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/18_crop_0.jpg	60(+0.00, -0.03)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/263_crop_0.jpg	H-H
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/286_crop_27.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/326_crop_16.jpg	17
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/145_crop_9.jpg	B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/241_crop_2.jpg	19.90
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/49_crop_11.jpg	82
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/218_crop_69.jpg	39
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/422_crop_5.jpg	60
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/155_crop_24.jpg	直径:10 g6(-0.005, -0.014)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/310_crop_2.jpg	4-C2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/337_crop_6.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/152_crop_3.jpg	M4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/72_crop_37.jpg	5±0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/438_crop_1.jpg	PD
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/362_crop_2.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/390_crop_6.jpg	100
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/109_crop_25.jpg	直径:7.5(-0.3, -0.5)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/175_crop_4.jpg	同心度:直径:0.025:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/285_crop_19.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/223_crop_15.jpg	24.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/223_crop_3.jpg	直径:24.40(-0.04, -0.08)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/37_crop_59.jpg	12
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/75_crop_62.jpg	53.3±0.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/229_crop_15.jpg	30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/372_crop_5.jpg	8±0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/241_crop_7.jpg	19.90
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/89_crop_17.jpg	同心度:直径:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/109_crop_23.jpg	直径:1.5H7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/95_crop_31.jpg	直径:24.4(-0.04, -0.08)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/486_crop_7.jpg	49
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/321_crop_1.jpg	直径:40 H7(+0.021, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/134_crop_2.jpg	垂直度:0.04:B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/246_crop_6.jpg	22
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/242_crop_10.jpg	R0.40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/393_crop_13.jpg	26±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/153_crop_33.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/252_crop_36.jpg	21
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/36_crop_34.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/259_crop_10.jpg	30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/121_crop_15.jpg	20°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/440_crop_0.jpg	7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/334_crop_25.jpg	404
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/218_crop_25.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/48_crop_41.jpg	49
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/377_crop_9.jpg	5(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/198_crop_17.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/218_crop_16.jpg	1 × 20°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/493_crop_5.jpg	R1.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/109_crop_12.jpg	11.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/47_crop_16.jpg	3.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/348_crop_13.jpg	60
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/415_crop_1.jpg	2.7(+0.3, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/347_crop_10.jpg	50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/226_crop_3.jpg	8.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/50_crop_15.jpg	R3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/106_crop_9.jpg	24.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/497_crop_3.jpg	12.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/122_crop_35.jpg	直径:3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/95_crop_32.jpg	直径:16(-0.01, -0.03)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/325_crop_4.jpg	186
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/382_crop_5.jpg	11(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/256_crop_13.jpg	直径:40(0, -0.05)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/458_crop_3.jpg	5.43
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/58_crop_12.jpg	直径:1.01
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/153_crop_16.jpg	68
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/372_crop_44.jpg	R1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/259_crop_25.jpg	4-直径:9
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/355_crop_11.jpg	12 
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/64_crop_23.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/12_crop_19.jpg	粗糙度:12.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/78_crop_0.jpg	直径:1.5m6 (+0.008, +0.002)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/328_crop_16.jpg	326.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/109_crop_44.jpg	同心度:直径:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/249_crop_29.jpg	72.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/313_crop_2.jpg	2.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/31_crop_12.jpg	直径:16H7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/8_crop_29.jpg	同心度:直径:0.04A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/168_crop_11.jpg	54.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/163_crop_2.jpg	垂直度:0.03:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/230_crop_9.jpg	20-直径:15
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/42_crop_8.jpg	圆柱度:0.005
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/109_crop_9.jpg	直径:4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/33_crop_9.jpg	C1.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/313_crop_0.jpg	E-E
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/test/268_crop_8.jpg	10

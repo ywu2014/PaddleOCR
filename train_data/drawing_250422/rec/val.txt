@@ -1,0 +1,1845 @@
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/390_crop_7.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/342_crop_0.jpg	6-φ7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/122_crop_75.jpg	37
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/247_crop_16.jpg	53
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/209_crop_0.jpg	垂直度:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/362_crop_5.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/512_crop_17.jpg	17.5(0, -0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/36_crop_41.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/513_crop_1.jpg	R3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/222_crop_0.jpg	φ5.40(-0.10, -0.15)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/312_crop_38.jpg	30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/322_crop_11.jpg	14(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/253_crop_14.jpg	p 0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/245_crop_28.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/149_crop_5.jpg	30°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/66_crop_1.jpg	φ1.6(0, -0.05) 
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/222_crop_36.jpg	9
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/225_crop_51.jpg	8(0, -0.01)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/383_crop_24.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/99_crop_3.jpg	φ1.20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/518_crop_12.jpg	φ7.20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/7_crop_5.jpg	φ13
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/51_crop_11.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/141_crop_2.jpg	φ1p6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/202_crop_2.jpg	φ3(+0.008, +0.002)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/2_crop_10.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/347_crop_13.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/326_crop_0.jpg	2.60
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/220_crop_37.jpg	9.40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/132_crop_3.jpg	φ29(+0.4, +0.3)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/229_crop_14.jpg	50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/294_crop_29.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/453_crop_1.jpg	φ4.5 (2x)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/119_crop_11.jpg	67.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/6_crop_17.jpg	7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/89_crop_56.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/372_crop_59.jpg	φ15.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/78_crop_2.jpg	15°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/63_crop_0.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/194_crop_14.jpg	φ31
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/119_crop_25.jpg	D
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/122_crop_53.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/345_crop_5.jpg	22.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/7_crop_8.jpg	12.66
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/69_crop_3.jpg	4-φ0.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/48_crop_37.jpg	60°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/380_crop_4.jpg	30°±0.05°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/119_crop_38.jpg	9.4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/75_crop_87.jpg	25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/252_crop_34.jpg	φ40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/112_crop_5.jpg	垂直度:0.03A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/224_crop_41.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/382_crop_3.jpg	φ19.40(0, -0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/407_crop_40.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/145_crop_14.jpg	1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/3_crop_11.jpg	12
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/230_crop_17.jpg	15
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/153_crop_32.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/410_crop_4.jpg	φ30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/221_crop_30.jpg	9.40±0.03
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/480_crop_4.jpg	1.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/38_crop_15.jpg	φ18
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/382_crop_1.jpg	0.50 × 30°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/311_crop_23.jpg	18
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/411_crop_20.jpg	7.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/224_crop_25.jpg	φ24.4(-0.04, -0.08)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/354_crop_3.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/352_crop_13.jpg	11.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/477_crop_1.jpg	R3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/372_crop_31.jpg	φ22(0, -0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/489_crop_2.jpg	位置公差:φ0.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/408_crop_19.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/42_crop_26.jpg	R0.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/168_crop_0.jpg	37
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/30_crop_9.jpg	52(0.074, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/81_crop_38.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/174_crop_4.jpg	4.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/243_crop_24.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/373_crop_17.jpg	R0.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/104_crop_8.jpg	φ1.20 F7 (+0.02, +0.01)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/17_crop_8.jpg	Tr12×2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/248_crop_23.jpg	30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/391_crop_4.jpg	63.70
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/28_crop_12.jpg	4(+0.3, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/73_crop_0.jpg	φ16
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/257_crop_32.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/24_crop_0.jpg	φ90
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/329_crop_6.jpg	170.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/257_crop_5.jpg	φ4.20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/51_crop_35.jpg	41
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/43_crop_20.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/164_crop_60.jpg	φ5.4(-0.10, -0.15)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/361_crop_6.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/463_crop_2.jpg	φ16±0.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/10_crop_0.jpg	2.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/237_crop_4.jpg	660
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/406_crop_4.jpg	138.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/287_crop_6.jpg	30°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/427_crop_5.jpg	110
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/369_crop_23.jpg	200
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/453_crop_5.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/81_crop_45.jpg	φ10H7(+0.015, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/321_crop_4.jpg	R13
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/222_crop_23.jpg	37
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/156_crop_36.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/43_crop_5.jpg	φ30.7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/247_crop_32.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/225_crop_37.jpg	9.40±0.03
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/224_crop_60.jpg	39
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/294_crop_9.jpg	von VT-ATMO in Abstimmung
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/305_crop_17.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/410_crop_28.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/394_crop_12.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/156_crop_3.jpg	2-R0.75
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/108_crop_14.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/308_crop_8.jpg	45
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/172_crop_3.jpg	4.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/341_crop_13.jpg	3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/316_crop_1.jpg	204
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/293_crop_21.jpg	31
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/273_crop_1.jpg	17.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/119_crop_18.jpg	1.5:1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/311_crop_15.jpg	25.90
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/320_crop_7.jpg	63.70
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/334_crop_30.jpg	124.30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/151_crop_4.jpg	(1.52)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/299_crop_1.jpg	H-H
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/10_crop_31.jpg	228
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/357_crop_7.jpg	45
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/198_crop_65.jpg	49
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/428_crop_13.jpg	Schrifthoehe: 5mm
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/293_crop_33.jpg	8±0.03
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/339_crop_3.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/45_crop_31.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/139_crop_3.jpg	59.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/192_crop_2.jpg	SR0.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/47_crop_31.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/145_crop_2.jpg	B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/383_crop_0.jpg	H-H
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/6_crop_16.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/410_crop_20.jpg	14.66±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/137_crop_20.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/311_crop_0.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/247_crop_18.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/122_crop_32.jpg	φ15.5(0, -0.2)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/197_crop_3.jpg	61
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/362_crop_0.jpg	25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/74_crop_7.jpg	同心度:φ0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/275_crop_11.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/475_crop_5.jpg	2.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/407_crop_6.jpg	9-R1.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/378_crop_4.jpg	跳动:0.1:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/113_crop_35.jpg	φ16(-0.01, -0.03)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/48_crop_13.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/352_crop_16.jpg	95°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/425_crop_8.jpg	210
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/137_crop_15.jpg	10 : 1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/96_crop_4.jpg	φ10 g6(-0.005, -0.014)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/375_crop_5.jpg	15.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/42_crop_20.jpg	φ5.5x60°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/262_crop_18.jpg	37
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/48_crop_20.jpg	85(+0.2, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/72_crop_1.jpg	φ7.5(-0.3, -0.5)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/326_crop_48.jpg	147
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/392_crop_16.jpg	(44.3)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/491_crop_1.jpg	2.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/394_crop_14.jpg	3.5(0, -0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/5_crop_37.jpg	R1.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/159_crop_0.jpg	8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/359_crop_1.jpg	386
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/379_crop_1.jpg	跳动:0.01:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/304_crop_6.jpg	(37.20 )
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/225_crop_1.jpg	35±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/419_crop_5.jpg	7.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/95_crop_40.jpg	25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/341_crop_5.jpg	30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/71_crop_1.jpg	(2 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/217_crop_37.jpg	8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/61_crop_1.jpg	(2 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/89_crop_18.jpg	φ15.5(0, -0.2)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/480_crop_0.jpg	φ21
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/88_crop_29.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/344_crop_10.jpg	11.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/59_crop_7.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/384_crop_26.jpg	2-M5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/231_crop_4.jpg	25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/217_crop_38.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/411_crop_13.jpg	φ15 k6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/244_crop_16.jpg	19
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/422_crop_7.jpg	35
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/42_crop_10.jpg	φ14(-0.016, -0.034)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/16_crop_30.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/465_crop_20.jpg	2-C2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/225_crop_66.jpg	5°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/235_crop_2.jpg	2 xM5-6H
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/217_crop_33.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/335_crop_18.jpg	8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/428_crop_20.jpg	φ9 (3x)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/300_crop_25.jpg	12
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/87_crop_28.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/252_crop_9.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/381_crop_1.jpg	R0.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/358_crop_5.jpg	4-φ6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/12_crop_35.jpg	7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/428_crop_1.jpg	830(+0.2, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/1_crop_18.jpg	12
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/163_crop_3.jpg	Dg 0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/65_crop_13.jpg	2(+0.3, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/41_crop_0.jpg	14
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/287_crop_20.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/72_crop_30.jpg	3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/75_crop_7.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/407_crop_2.jpg	11.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/254_crop_45.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/246_crop_16.jpg	位置公差:φ0.2:B|A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/113_crop_68.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/348_crop_8.jpg	40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/20_crop_7.jpg	R10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/139_crop_27.jpg	5±0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/281_crop_23.jpg	0.80 × 45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/109_crop_80.jpg	20°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/302_crop_0.jpg	12.20±0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/47_crop_1.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/415_crop_2.jpg	12
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/455_crop_0.jpg	830(+0.2, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/207_crop_34.jpg	φ3.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/225_crop_23.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/242_crop_12.jpg	45.40(0, -0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/171_crop_7.jpg	6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/25_crop_9.jpg	8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/12_crop_25.jpg	φ26
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/48_crop_25.jpg	B-B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/454_crop_0.jpg	平整度:0.08
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/218_crop_1.jpg	35±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/224_crop_34.jpg	37
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/386_crop_7.jpg	430
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/233_crop_8.jpg	22.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/371_crop_10.jpg	(29.82)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/163_crop_8.jpg	φ4 H7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/109_crop_32.jpg	φ15.5(0, -0.2)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/416_crop_20.jpg	M3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/326_crop_5.jpg	115.80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/75_crop_29.jpg	D-D
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/11_crop_23.jpg	70
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/356_crop_14.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/367_crop_8.jpg	3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/87_crop_27.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/223_crop_11.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/174_crop_7.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/330_crop_15.jpg	219.60
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/189_crop_0.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/248_crop_11.jpg	沉孔或锪平:φ15
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/394_crop_2.jpg	33±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/471_crop_7.jpg	10.8(0, -0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/107_crop_18.jpg	B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/236_crop_6.jpg	11
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/112_crop_38.jpg	M4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/185_crop_18.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/230_crop_23.jpg	38
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/384_crop_22.jpg	φ40 H7 (+0.025, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/258_crop_20.jpg	19.90
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/17_crop_14.jpg	φ60
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/431_crop_27.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/224_crop_44.jpg	27
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/234_crop_1.jpg	80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/31_crop_7.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/281_crop_41.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/254_crop_2.jpg	47
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/101_crop_2.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/72_crop_32.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/380_crop_12.jpg	(72.63)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/166_crop_4.jpg	20°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/279_crop_2.jpg	H-H
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/218_crop_42.jpg	47.10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/330_crop_0.jpg	372.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/263_crop_20.jpg	深度:17
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/246_crop_10.jpg	粗糙度:6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/81_crop_30.jpg	3.25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/145_crop_0.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/229_crop_2.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/511_crop_10.jpg	1.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/340_crop_18.jpg	粗糙度:6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/328_crop_15.jpg	389
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/207_crop_21.jpg	φ15.50(0, -0.2)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/278_crop_10.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/113_crop_40.jpg	φ2.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/256_crop_7.jpg	C1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/55_crop_29.jpg	位置公差:φ0.04
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/74_crop_6.jpg	φ3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/109_crop_65.jpg	φ5.4(-0.1, -0.15)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/50_crop_5.jpg	18
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/140_crop_0.jpg	粗糙度:6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/375_crop_0.jpg	16.8±0.03
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/447_crop_4.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/119_crop_33.jpg	9
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/351_crop_16.jpg	粗糙度:6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/5_crop_47.jpg	2-φ4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/61_crop_7.jpg	φ1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/235_crop_1.jpg	55
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/352_crop_4.jpg	75
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/25_crop_24.jpg	R0.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/351_crop_8.jpg	355
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/381_crop_10.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/75_crop_23.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/381_crop_4.jpg	0.60
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/486_crop_9.jpg	1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/51_crop_0.jpg	粗糙度:6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/339_crop_5.jpg	360
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/139_crop_7.jpg	B-B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/305_crop_15.jpg	14.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/277_crop_4.jpg	(0.60)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/281_crop_28.jpg	φ20.6 H11(+0.130, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/143_crop_7.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/30_crop_7.jpg	80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/121_crop_25.jpg	21±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/325_crop_9.jpg	175.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/75_crop_68.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/379_crop_3.jpg	8±0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/38_crop_22.jpg	0.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/198_crop_58.jpg	9
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/75_crop_65.jpg	62.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/20_crop_8.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/293_crop_11.jpg	φ10 H7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/390_crop_3.jpg	13. 5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/405_crop_4.jpg	1.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/259_crop_30.jpg	φ75.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/416_crop_11.jpg	φ15(+0.5, +0.2)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/164_crop_34.jpg	φ16(-0.01, -0.03)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/254_crop_49.jpg	96
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/416_crop_18.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/332_crop_18.jpg	389
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/143_crop_3.jpg	0.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/164_crop_45.jpg	58.30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/428_crop_0.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/355_crop_14.jpg	287.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/244_crop_46.jpg	9.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/217_crop_10.jpg	B-B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/485_crop_1.jpg	8.5(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/221_crop_57.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/297_crop_10.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/136_crop_32.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/109_crop_28.jpg	2 : 1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/46_crop_11.jpg	27
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/14_crop_10.jpg	后孔
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/373_crop_25.jpg	45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/250_crop_6.jpg	φ7.60(0, -0.05)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/503_crop_0.jpg	φ6±0.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/89_crop_11.jpg	(4 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/235_crop_21.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/24_crop_6.jpg	106
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/365_crop_0.jpg	404
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/448_crop_3.jpg	位置公差:φ0.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/23_crop_17.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/260_crop_21.jpg	位置公差:φ0.04
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/367_crop_4.jpg	120
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/459_crop_6.jpg	φ20.20(+0.2, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/312_crop_3.jpg	( 15.16 )
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/163_crop_7.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/281_crop_44.jpg	深度:4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/265_crop_8.jpg	φ58
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/85_crop_3.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/119_crop_27.jpg	65.3±0.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/13_crop_23.jpg	110
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/112_crop_18.jpg	垂直度:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/95_crop_35.jpg	8(+0.01, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/261_crop_12.jpg	20.15
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/213_crop_2.jpg	0.3 x 20°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/95_crop_5.jpg	B-B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/361_crop_7.jpg	50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/420_crop_0.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/110_crop_17.jpg	24.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/131_crop_8.jpg	φ2.8(+0.05, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/227_crop_4.jpg	3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/256_crop_21.jpg	23
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/75_crop_6.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/112_crop_10.jpg	8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/163_crop_12.jpg	8(+0.01, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/347_crop_24.jpg	60
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/331_crop_3.jpg	97.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/113_crop_32.jpg	φ9(0, -0.2)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/5_crop_10.jpg	2×45
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/218_crop_29.jpg	φ7.5(-0.3, -0.5)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/55_crop_24.jpg	12
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/348_crop_15.jpg	22
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/113_crop_2.jpg	同心度:φ0.03:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/139_crop_0.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/326_crop_8.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/320_crop_18.jpg	50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/293_crop_5.jpg	128±0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/45_crop_10.jpg	3×0.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/267_crop_10.jpg	82
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/383_crop_26.jpg	11
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/164_crop_48.jpg	11.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/253_crop_44.jpg	78.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/370_crop_5.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/94_crop_10.jpg	59.10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/317_crop_3.jpg	157
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/373_crop_23.jpg	跳动:0.1:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/312_crop_24.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/279_crop_48.jpg	5(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/248_crop_1.jpg	H-H
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/268_crop_9.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/27_crop_10.jpg	2-φ14.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/466_crop_7.jpg	2-φ11.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/460_crop_3.jpg	0.50 × 45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/11_crop_7.jpg	70
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/31_crop_8.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/465_crop_17.jpg	R7.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/348_crop_4.jpg	φ26
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/495_crop_1.jpg	φ4.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/17_crop_12.jpg	52
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/175_crop_11.jpg	φ14(0, -0.05)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/207_crop_20.jpg	(4 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/127_crop_0.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/281_crop_4.jpg	27.18±0.03
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/80_crop_0.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/253_crop_21.jpg	垂直度:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/298_crop_2.jpg	φ20.2(+0.2, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/341_crop_15.jpg	40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/276_crop_10.jpg	10±0.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/465_crop_9.jpg	12±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/19_crop_22.jpg	R5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/207_crop_18.jpg	C-C
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/93_crop_1.jpg	0.75
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/264_crop_0.jpg	3 x φ5.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/112_crop_34.jpg	8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/408_crop_26.jpg	25.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/64_crop_19.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/74_crop_13.jpg	φ4H7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/1_crop_19.jpg	26
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/20_crop_17.jpg	30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/220_crop_21.jpg	9
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/160_crop_1.jpg	45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/318_crop_5.jpg	φ40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/137_crop_5.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/164_crop_13.jpg	(4 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/43_crop_17.jpg	120°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/75_crop_76.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/11_crop_16.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/128_crop_1.jpg	φ26(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/350_crop_7.jpg	65
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/215_crop_7.jpg	21.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/96_crop_7.jpg	0.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/221_crop_41.jpg	11.60
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/375_crop_11.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/407_crop_37.jpg	47°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/156_crop_2.jpg	(4 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/17_crop_15.jpg	φ80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/394_crop_15.jpg	2-R2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/4_crop_19.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/178_crop_1.jpg	平行度:0.04:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/203_crop_2.jpg	0.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/56_crop_10.jpg	8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/419_crop_4.jpg	6.4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/104_crop_1.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/274_crop_4.jpg	φ9 
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/335_crop_1.jpg	182.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/330_crop_25.jpg	219
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/407_crop_39.jpg	170
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/280_crop_51.jpg	φ20.60 H11(+0.130, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/69_crop_9.jpg	8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/394_crop_9.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/12_crop_27.jpg	粗糙度:X
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/455_crop_16.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/447_crop_6.jpg	Freistich DIN 509 F 0.4x0.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/153_crop_18.jpg	φ24.40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/296_crop_13.jpg	4.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/355_crop_2.jpg	(108)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/281_crop_40.jpg	19.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/222_crop_18.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/384_crop_10.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/438_crop_2.jpg	27
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/262_crop_21.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/4_crop_25.jpg	粗糙度:12.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/259_crop_16.jpg	位置公差:φ0.04
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/309_crop_1.jpg	160
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/224_crop_67.jpg	120°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/243_crop_0.jpg	H-H
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/253_crop_4.jpg	30.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/479_crop_0.jpg	17
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/58_crop_3.jpg	(10 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/271_crop_13.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/244_crop_53.jpg	250
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/428_crop_18.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/102_crop_1.jpg	(5 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/202_crop_1.jpg	2.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/371_crop_6.jpg	7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/122_crop_12.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/49_crop_13.jpg	21
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/73_crop_1.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/371_crop_17.jpg	110
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/37_crop_36.jpg	8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/48_crop_28.jpg	D-D
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/393_crop_28.jpg	47±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/221_crop_13.jpg	1 × 20°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/513_crop_5.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/204_crop_3.jpg	M4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/223_crop_16.jpg	26.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/152_crop_2.jpg	45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/26_crop_0.jpg	36
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/221_crop_39.jpg	垂直度:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/459_crop_2.jpg	R2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/224_crop_22.jpg	φ15.5(0, -0.2)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/165_crop_2.jpg	φ3 g6(-0.002, -0.008)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/358_crop_6.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/475_crop_1.jpg	φ4.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/37_crop_13.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/378_crop_2.jpg	(4 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/109_crop_2.jpg	#*
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/156_crop_6.jpg	2-0.5 × 45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/110_crop_25.jpg	54.9±0.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/248_crop_20.jpg	30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/285_crop_22.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/13_crop_25.jpg	R10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/210_crop_3.jpg	2.24
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/175_crop_9.jpg	15.7(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/107_crop_21.jpg	26.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/489_crop_7.jpg	2°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/224_crop_39.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/225_crop_67.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/121_crop_4.jpg	φ3H7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/379_crop_5.jpg	φ34.42
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/22_crop_17.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/75_crop_35.jpg	2 : 1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/342_crop_15.jpg	394
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/113_crop_43.jpg	D
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/42_crop_2.jpg	垂直度:0.025:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/329_crop_20.jpg	175
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/280_crop_24.jpg	φ20.2(+0.2, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/348_crop_24.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/412_crop_8.jpg	5(+0.5, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/392_crop_10.jpg	60
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/265_crop_1.jpg	26.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/89_crop_24.jpg	φ24.4(-0.04, -0.03)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/33_crop_18.jpg	φ10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/293_crop_16.jpg	φ25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/328_crop_10.jpg	13
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/469_crop_1.jpg	(10 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/71_crop_3.jpg	II
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/311_crop_16.jpg	3-φ8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/198_crop_35.jpg	9.19
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/156_crop_63.jpg	58.3(0, -0.5)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/372_crop_33.jpg	0.60
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/128_crop_9.jpg	1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/59_crop_9.jpg	29
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/459_crop_5.jpg	φ20.60 H11 (+0.130, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/280_crop_13.jpg	20±0.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/438_crop_3.jpg	φ4.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/511_crop_2.jpg	R1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/340_crop_0.jpg	42-φ6.20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/322_crop_19.jpg	3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/51_crop_5.jpg	粗糙度:6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/56_crop_2.jpg	φ1.01
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/417_crop_13.jpg	位置公差:φ0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/390_crop_0.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/6_crop_1.jpg	R20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/384_crop_6.jpg	5.7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/500_crop_10.jpg	φ5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/93_crop_2.jpg	45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/195_crop_2.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/14_crop_29.jpg	80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/181_crop_5.jpg	1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/372_crop_18.jpg	0.80 × 45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/260_crop_24.jpg	位置公差:φ0.4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/113_crop_20.jpg	φ3.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/47_crop_17.jpg	0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/147_crop_13.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/213_crop_0.jpg	1.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/163_crop_13.jpg	12
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/440_crop_12.jpg	B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/299_crop_32.jpg	11
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/254_crop_32.jpg	垂直度:0.02A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/72_crop_22.jpg	D
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/254_crop_22.jpg	位置公差:φ0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/343_crop_11.jpg	3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/53_crop_10.jpg	垂直度:0.06:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/507_crop_2.jpg	φ32(0, -0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/372_crop_30.jpg	φ15.50(0, -0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/64_crop_3.jpg	B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/224_crop_52.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/221_crop_29.jpg	E-E
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/87_crop_25.jpg	37
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/486_crop_0.jpg	Kanten gerundet
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/416_crop_7.jpg	0.5x15°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/27_crop_7.jpg	80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/259_crop_31.jpg	跳动:0.02:B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/198_crop_7.jpg	φ3(+0.15, +0.10)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/108_crop_12.jpg	74.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/279_crop_19.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/88_crop_9.jpg	8(+0.01, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/512_crop_4.jpg	φ3.20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/410_crop_31.jpg	14
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/260_crop_45.jpg	4-φ9
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/407_crop_15.jpg	357±0.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/252_crop_32.jpg	32
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/263_crop_36.jpg	15°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/4_crop_16.jpg	φ90
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/495_crop_0.jpg	1,5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/251_crop_12.jpg	94
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/12_crop_13.jpg	40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/341_crop_0.jpg	粗糙度:6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/59_crop_4.jpg	4-φ0.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/180_crop_4.jpg	对称度:0.04:C
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/378_crop_6.jpg	0.50 × 30°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/168_crop_15.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/318_crop_13.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/361_crop_8.jpg	23
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/322_crop_16.jpg	8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/256_crop_19.jpg	4-φ5.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/36_crop_6.jpg	φ25K6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/344_crop_2.jpg	495
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/253_crop_18.jpg	4-φ9
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/376_crop_4.jpg	φ25±0.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/294_crop_27.jpg	φ16
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/431_crop_23.jpg	φ8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/191_crop_5.jpg	SR0.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/166_crop_1.jpg	2.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/226_crop_8.jpg	3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/14_crop_22.jpg	18
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/249_crop_22.jpg	650
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/349_crop_12.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/244_crop_3.jpg	6 H7(+0.012, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/258_crop_36.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/329_crop_7.jpg	87.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/249_crop_7.jpg	2-φ40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/119_crop_26.jpg	54.9±0.06
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/323_crop_23.jpg	1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/130_crop_4.jpg	1.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/218_crop_65.jpg	φ3 H8 (+0.014, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/88_crop_21.jpg	M3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/108_crop_21.jpg	1.5:1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/433_crop_9.jpg	16.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/323_crop_27.jpg	9
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/221_crop_73.jpg	53.34
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/372_crop_52.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/406_crop_8.jpg	172.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/407_crop_13.jpg	位置公差:φ0.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/373_crop_22.jpg	III
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/230_crop_8.jpg	(1 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/410_crop_15.jpg	15°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/6_crop_5.jpg	R100
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/53_crop_5.jpg	φ30.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/221_crop_2.jpg	粗糙度:6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/471_crop_1.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/351_crop_12.jpg	25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/372_crop_26.jpg	0.50 × 30°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/139_crop_21.jpg	D
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/225_crop_48.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/260_crop_5.jpg	32.48
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/107_crop_0.jpg	φ15.5(0, -02)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/374_crop_31.jpg	R2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/285_crop_16.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/265_crop_0.jpg	(39.30)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/94_crop_12.jpg	67.60
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/110_crop_16.jpg	B-B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/341_crop_14.jpg	R3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/113_crop_16.jpg	0.75
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/234_crop_6.jpg	R10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/287_crop_0.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/226_crop_7.jpg	φ40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/14_crop_26.jpg	18
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/218_crop_32.jpg	φ24.4(-0.04, -0.08)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/293_crop_4.jpg	0,5x45°(2x)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/201_crop_1.jpg	C0.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/259_crop_38.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/38_crop_20.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/18_crop_9.jpg	30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/223_crop_9.jpg	72
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/217_crop_24.jpg	49
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/164_crop_0.jpg	(4 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/130_crop_13.jpg	28
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/322_crop_0.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/42_crop_9.jpg	φ8±0.045
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/459_crop_0.jpg	(2 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/122_crop_42.jpg	9
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/88_crop_24.jpg	φ10 g6(-0.005, -0.014)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/37_crop_16.jpg	φ76
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/373_crop_55.jpg	45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/66_crop_5.jpg	15
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/256_crop_29.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/113_crop_29.jpg	φ5.4(-0.1, -0.15)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/110_crop_21.jpg	68.28°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/301_crop_1.jpg	140.20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/296_crop_7.jpg	843 20562
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/332_crop_14.jpg	63
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/156_crop_41.jpg	φ3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/108_crop_4.jpg	φ24.4(-0.04, -0.08)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/21_crop_6.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/313_crop_9.jpg	位置公差:φ0.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/10_crop_28.jpg	28
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/45_crop_28.jpg	φ35(+0.025, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/417_crop_14.jpg	93.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/277_crop_2.jpg	φ20.6 H11 (+0.130, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/52_crop_7.jpg	38
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/235_crop_0.jpg	70
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/264_crop_15.jpg	0.20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/252_crop_40.jpg	12
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/461_crop_7.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/37_crop_29.jpg	25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/273_crop_2.jpg	2-φ8.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/370_crop_16.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/256_crop_8.jpg	19.90
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/36_crop_21.jpg	18
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/449_crop_2.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/177_crop_3.jpg	38±0.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/499_crop_2.jpg	9(-0.1, -0.2)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/68_crop_4.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/8_crop_27.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/109_crop_24.jpg	1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/245_crop_7.jpg	14
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/12_crop_38.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/41_crop_4.jpg	φ11
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/502_crop_0.jpg	D
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/248_crop_9.jpg	80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/135_crop_7.jpg	0.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/491_crop_11.jpg	R1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/332_crop_24.jpg	180.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/45_crop_9.jpg	跳动:0.001:B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/295_crop_5.jpg	φ10 f6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/171_crop_2.jpg	GB77-85
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/52_crop_2.jpg	96
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/250_crop_14.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/279_crop_44.jpg	深度:4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/119_crop_3.jpg	φ5.4(-0.1, -0.15)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/233_crop_1.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/81_crop_10.jpg	φ3H7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/312_crop_23.jpg	21
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/184_crop_2.jpg	φ31
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/101_crop_0.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/164_crop_32.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/375_crop_9.jpg	(2 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/176_crop_5.jpg	同心度:φ0.04:B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/327_crop_6.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/279_crop_26.jpg	(4 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/326_crop_37.jpg	177.10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/51_crop_24.jpg	粗糙度:6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/3_crop_6.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/260_crop_36.jpg	65
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/255_crop_6.jpg	8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/339_crop_4.jpg	3-φ7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/118_crop_0.jpg	M4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/101_crop_8.jpg	φ3(-0.02, -0.05)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/245_crop_15.jpg	82
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/247_crop_0.jpg	H-H
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/325_crop_6.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/153_crop_5.jpg	59.10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/48_crop_38.jpg	正方形:36
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/349_crop_9.jpg	10.20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/335_crop_13.jpg	25.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/280_crop_50.jpg	5(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/36_crop_11.jpg	D
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/258_crop_15.jpg	φ40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/312_crop_37.jpg	28
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/247_crop_5.jpg	2-φ6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/225_crop_58.jpg	φ9(0, -0.2)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/178_crop_0.jpg	φ6(+0.012, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/469_crop_10.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/11_crop_26.jpg	50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/370_crop_6.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/194_crop_3.jpg	同心度:φ0.05:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/207_crop_12.jpg	1 × 20°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/412_crop_19.jpg	φ(3.49)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/220_crop_6.jpg	59.10 
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/244_crop_54.jpg	15
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/501_crop_10.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/156_crop_14.jpg	3.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/89_crop_48.jpg	5°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/478_crop_3.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/306_crop_4.jpg	4x φ5.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/207_crop_63.jpg	φ3.20(+0.01, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/81_crop_15.jpg	D-D
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/244_crop_13.jpg	深度:8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/223_crop_38.jpg	φ3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/162_crop_3.jpg	M3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/75_crop_74.jpg	R0.75
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/95_crop_36.jpg	φ3(+0.014, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/33_crop_5.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/276_crop_9.jpg	5.43
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/300_crop_10.jpg	φ16±0.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/42_crop_11.jpg	φ18(-0.150, -0.260)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/488_crop_10.jpg	2°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/8_crop_12.jpg	φ132±0.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/156_crop_45.jpg	39
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/340_crop_2.jpg	R3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/179_crop_10.jpg	φ2(+0.02, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/318_crop_10.jpg	9.9(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/438_crop_12.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/502_crop_9.jpg	7±0.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/18_crop_3.jpg	16(+0.00, -0.03)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/190_crop_4.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/492_crop_5.jpg	25°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/12_crop_3.jpg	φ30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/19_crop_10.jpg	φ18
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/37_crop_32.jpg	22
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/74_crop_25.jpg	0.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/392_crop_15.jpg	60°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/78_crop_1.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/254_crop_33.jpg	位置公差:φ0.4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/15_crop_5.jpg	φ13
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/293_crop_30.jpg	(5.43)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/294_crop_28.jpg	25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/370_crop_11.jpg	R3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/207_crop_22.jpg	φ24.4(-0.04, -0.08)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/51_crop_10.jpg	同心度:φ0.025:A-B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/319_crop_4.jpg	15
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/440_crop_1.jpg	33,4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/109_crop_78.jpg	20°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/250_crop_7.jpg	φ7 K6(+0.01, +0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/299_crop_30.jpg	直度:0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/317_crop_24.jpg	85
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/224_crop_59.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/192_crop_4.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/431_crop_2.jpg	位置公差:φ0.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/113_crop_19.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/315_crop_0.jpg	540
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/198_crop_29.jpg	9.40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/164_crop_2.jpg	57.7±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/295_crop_4.jpg	φ25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/326_crop_32.jpg	34.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/131_crop_6.jpg	垂直度:0.025:B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/280_crop_21.jpg	0.5 × 30°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/495_crop_8.jpg	2.5(-0.1, -0.2)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/150_crop_1.jpg	R0.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/206_crop_17.jpg	1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/82_crop_0.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/218_crop_66.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/378_crop_11.jpg	φ22(0, -0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/247_crop_19.jpg	76.25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/110_crop_26.jpg	65.3±0.06
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/254_crop_47.jpg	30.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/17_crop_27.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/65_crop_10.jpg	10 : 1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/257_crop_34.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/411_crop_4.jpg	3.3±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/113_crop_24.jpg	D-D
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/33_crop_14.jpg	32
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/139_crop_1.jpg	12
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/64_crop_1.jpg	2 :1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/442_crop_9.jpg	位置公差:φ0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/17_crop_21.jpg	28
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/279_crop_6.jpg	跳动:0.01:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/226_crop_5.jpg	12.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/484_crop_0.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/285_crop_0.jpg	φ37.25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/132_crop_17.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/95_crop_56.jpg	φ1.5 H7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/87_crop_1.jpg	26.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/88_crop_12.jpg	垂直度:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/58_crop_6.jpg	4-φ0.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/323_crop_16.jpg	66
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/113_crop_5.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/239_crop_11.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/440_crop_13.jpg	95
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/100_crop_1.jpg	L=148
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/12_crop_16.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/231_crop_0.jpg	78
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/420_crop_6.jpg	位置公差:φ0.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/486_crop_5.jpg	6.3(0, -0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/501_crop_0.jpg	14.7±0.15
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/37_crop_19.jpg	B-B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/410_crop_9.jpg	1.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/113_crop_37.jpg	φ3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/5_crop_12.jpg	φ12
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/438_crop_13.jpg	φ8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/517_crop_1.jpg	40.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/177_crop_6.jpg	60
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/252_crop_24.jpg	粗糙度:6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/463_crop_4.jpg	16.4(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/249_crop_13.jpg	595
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/302_crop_7.jpg	φ10 f6 (-0.013, -0.022)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/207_crop_67.jpg	120°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/323_crop_24.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/301_crop_3.jpg	126
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/185_crop_12.jpg	18.80±0.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/191_crop_3.jpg	1±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/65_crop_14.jpg	1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/518_crop_2.jpg	5.5(+0.3, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/122_crop_21.jpg	c-C
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/364_crop_4.jpg	831
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/265_crop_16.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/261_crop_0.jpg	6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/342_crop_1.jpg	10-R2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/440_crop_7.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/224_crop_23.jpg	φ5.4(-0.10, -0.15)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/3_crop_1.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/121_crop_22.jpg	同心度:φ0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/258_crop_27.jpg	11.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/73_crop_4.jpg	70
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/330_crop_24.jpg	229.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/374_crop_9.jpg	R1.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/258_crop_11.jpg	10.25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/190_crop_7.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/109_crop_51.jpg	42.9±0.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/9_crop_6.jpg	φ9
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/253_crop_51.jpg	18
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/268_crop_10.jpg	48
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/385_crop_15.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/507_crop_0.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/452_crop_5.jpg	22
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/261_crop_26.jpg	35
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/136_crop_14.jpg	垂直度:0.04:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/322_crop_28.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/64_crop_21.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/392_crop_0.jpg	φ56
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/251_crop_7.jpg	位置公差:φ0.4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/72_crop_24.jpg	54.9±0.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/221_crop_55.jpg	φ9.5(0, -0.2)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/326_crop_49.jpg	172
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/122_crop_5.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/252_crop_13.jpg	30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/109_crop_54.jpg	47.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/48_crop_34.jpg	正方形:36
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/13_crop_34.jpg	75°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/300_crop_13.jpg	16.4(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/221_crop_9.jpg	2-0.5 × 45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/218_crop_13.jpg	2-0.5 × 45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/37_crop_24.jpg	Ra25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/252_crop_16.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/113_crop_39.jpg	9.4±0.03
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/306_crop_3.jpg	4-C2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/224_crop_40.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/2_crop_0.jpg	φ110
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/375_crop_7.jpg	φ34.42
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/87_crop_31.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/407_crop_10.jpg	211±0.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/313_crop_8.jpg	2-φ4 H7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/107_crop_14.jpg	B-B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/156_crop_8.jpg	D-D
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/81_crop_57.jpg	25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/515_crop_15.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/194_crop_22.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/119_crop_35.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/109_crop_57.jpg	35±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/320_crop_6.jpg	54.80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/31_crop_13.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/336_crop_0.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/270_crop_3.jpg	400
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/168_crop_20.jpg	3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/297_crop_3.jpg	8±0.03
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/89_crop_12.jpg	1 × 20°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/500_crop_1.jpg	8.5(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/383_crop_4.jpg	φ40 H7 (+0.025, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/115_crop_0.jpg	φ3 f8 (-0.006, -0.02)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/5_crop_38.jpg	1.68
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/133_crop_2.jpg	38±0.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/348_crop_27.jpg	40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/245_crop_0.jpg	垂直度:0.02:A|B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/50_crop_4.jpg	90
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/260_crop_6.jpg	29.44
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/416_crop_2.jpg	φ26(0, -0.2)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/22_crop_14.jpg	φ11
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/164_crop_14.jpg	8.44
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/286_crop_15.jpg	R6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/403_crop_6.jpg	10.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/220_crop_35.jpg	φ9(0, -0.2)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/51_crop_23.jpg	φ85h6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/87_crop_34.jpg	9.40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/491_crop_12.jpg	R1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/513_crop_2.jpg	35(0, -0.2)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/36_crop_38.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/1_crop_2.jpg	粗糙度:12.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/280_crop_33.jpg	3.60(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/164_crop_6.jpg	φ3(+0.15, +0.10)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/478_crop_0.jpg	(10 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/72_crop_6.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/256_crop_4.jpg	同心度:φ0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/405_crop_6.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/22_crop_13.jpg	φ25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/37_crop_39.jpg	16
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/132_crop_14.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/279_crop_7.jpg	8±0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/89_crop_3.jpg	2-R0.75
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/262_crop_4.jpg	4-φ8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/295_crop_9.jpg	垂直度:0.1:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/33_crop_34.jpg	24
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/148_crop_0.jpg	粗糙度:6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/254_crop_27.jpg	C0.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/74_crop_28.jpg	12
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/94_crop_11.jpg	61
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/308_crop_6.jpg	φ9
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/22_crop_7.jpg	φ20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/81_crop_19.jpg	同心度:φ0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/153_crop_34.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/433_crop_6.jpg	38
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/51_crop_38.jpg	粗糙度:12.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/156_crop_62.jpg	62.7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/89_crop_51.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/13_crop_35.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/180_crop_28.jpg	垂直度:0.05:B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/9_crop_4.jpg	50±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/221_crop_23.jpg	φ15.5(0, -0.2)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/315_crop_1.jpg	630
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/49_crop_0.jpg	50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/312_crop_18.jpg	30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/265_crop_24.jpg	φ23
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/312_crop_0.jpg	H-H
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/329_crop_26.jpg	243
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/186_crop_5.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/232_crop_2.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/163_crop_18.jpg	M4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/207_crop_53.jpg	φ9(0, -0.2)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/136_crop_26.jpg	78.4°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/75_crop_77.jpg	20°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/122_crop_70.jpg	5°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/71_crop_15.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/312_crop_26.jpg	φ24 K3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/75_crop_15.jpg	11.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/346_crop_4.jpg	104
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/482_crop_7.jpg	18
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/317_crop_16.jpg	22
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/393_crop_16.jpg	54±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/38_crop_5.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/242_crop_8.jpg	C0.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/334_crop_5.jpg	65±0.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/178_crop_3.jpg	对称度:φ0.2:B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/275_crop_1.jpg	跳动:0.01:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/445_crop_3.jpg	B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/113_crop_66.jpg	1.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/218_crop_37.jpg	3.25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/260_crop_47.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/3_crop_0.jpg	φ52
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/99_crop_10.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/8_crop_23.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/180_crop_20.jpg	78.4°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/279_crop_15.jpg	5.43
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/15_crop_0.jpg	粗糙度:63
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/176_crop_16.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/417_crop_22.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/87_crop_15.jpg	72
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/412_crop_15.jpg	37.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/221_crop_63.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/225_crop_2.jpg	粗糙度:6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/91_crop_0.jpg	7.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/435_crop_0.jpg	8.225
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/429_crop_11.jpg	30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/117_crop_0.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/337_crop_7.jpg	45
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/392_crop_19.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/4_crop_13.jpg	φ16H7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/249_crop_20.jpg	340
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/37_crop_44.jpg	80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/71_crop_9.jpg	4-φ0.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/142_crop_9.jpg	15
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/63_crop_5.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/64_crop_14.jpg	L=138;148;158
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/329_crop_4.jpg	24.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/163_crop_28.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/278_crop_13.jpg	φ17.50(0, -0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/304_crop_11.jpg	φ7.60(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/311_crop_22.jpg	28.20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/433_crop_3.jpg	58.55(0, -0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/53_crop_11.jpg	φ42
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/280_crop_47.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/465_crop_6.jpg	52±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/463_crop_5.jpg	平整度:0.002
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/325_crop_5.jpg	179
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/247_crop_23.jpg	19
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/76_crop_4.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/164_crop_9.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/263_crop_16.jpg	19.90
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/230_crop_14.jpg	26
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/109_crop_66.jpg	φ1.5H7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/180_crop_19.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/23_crop_0.jpg	152
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/113_crop_47.jpg	2 : 1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/76_crop_1.jpg	30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/306_crop_8.jpg	17
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/141_crop_4.jpg	0.2×45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/101_crop_12.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/485_crop_3.jpg	1.5(+0.2, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/135_crop_3.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/244_crop_34.jpg	292
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/110_crop_40.jpg	25°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/416_crop_10.jpg	2.5±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/312_crop_20.jpg	44.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/88_crop_22.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/452_crop_2.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/518_crop_16.jpg	23.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/89_crop_60.jpg	3.25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/13_crop_33.jpg	80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/252_crop_19.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/424_crop_5.jpg	8.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/240_crop_8.jpg	M4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/199_crop_31.jpg	54°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/454_crop_12.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/350_crop_6.jpg	50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/249_crop_27.jpg	22.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/326_crop_28.jpg	14.80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/351_crop_10.jpg	25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/19_crop_21.jpg	R2.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/249_crop_21.jpg	605
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/95_crop_25.jpg	E-E
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/106_crop_1.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/218_crop_26.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/340_crop_10.jpg	80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/388_crop_22.jpg	228
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/309_crop_6.jpg	160
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/335_crop_23.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/316_crop_5.jpg	10.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/5_crop_17.jpg	φ7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/279_crop_55.jpg	11(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/372_crop_57.jpg	15
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/321_crop_26.jpg	11
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/388_crop_24.jpg	100
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/321_crop_13.jpg	64
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/8_crop_21.jpg	φ95
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/31_crop_11.jpg	粗糙度:6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/258_crop_37.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/516_crop_5.jpg	6 × 45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/113_crop_15.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/47_crop_30.jpg	φ4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/180_crop_3.jpg	20.57±0.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/423_crop_0.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/254_crop_40.jpg	深度:5.70
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/321_crop_27.jpg	8.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/428_crop_6.jpg	φ4.5 (3x)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/43_crop_1.jpg	φ122
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/253_crop_49.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/487_crop_3.jpg	2.5(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/394_crop_28.jpg	7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/261_crop_4.jpg	位置公差:φ0.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/264_crop_14.jpg	15°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/460_crop_7.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/38_crop_30.jpg	φ8.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/122_crop_59.jpg	1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/265_crop_10.jpg	φ25(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/411_crop_2.jpg	01
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/335_crop_10.jpg	398.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/22_crop_11.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/301_crop_2.jpg	128
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/5_crop_33.jpg	18
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/260_crop_1.jpg	138
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/48_crop_11.jpg	φ60H7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/342_crop_5.jpg	274
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/286_crop_22.jpg	55°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/418_crop_1.jpg	15
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/110_crop_22.jpg	26.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/246_crop_7.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/131_crop_13.jpg	φ14(0, -0.05)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/148_crop_5.jpg	0.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/417_crop_7.jpg	5.4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/10_crop_18.jpg	φ30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/140_crop_5.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/55_crop_19.jpg	25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/223_crop_20.jpg	72
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/410_crop_7.jpg	02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/446_crop_9.jpg	(21)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/75_crop_61.jpg	47.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/417_crop_29.jpg	φ5 H7 (2x)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/194_crop_18.jpg	φ12(-0.05, -0.10)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/317_crop_19.jpg	218
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/45_crop_26.jpg	R1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/220_crop_19.jpg	7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/300_crop_24.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/249_crop_36.jpg	800
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/448_crop_0.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/180_crop_12.jpg	φ20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/224_crop_57.jpg	φ9(0, -0.2)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/385_crop_21.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/142_crop_13.jpg	L=138;148;158
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/176_crop_11.jpg	80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/75_crop_32.jpg	φ7.5(-0.3, -0.5)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/408_crop_3.jpg	11.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/221_crop_26.jpg	φ24.4(-0.04, -0.08)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/153_crop_1.jpg	φ7.5(-0.3, -0.5)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/407_crop_8.jpg	138±0.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/273_crop_12.jpg	9
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/262_crop_23.jpg	平行度:0.03:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/341_crop_4.jpg	R3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/312_crop_29.jpg	12
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/439_crop_0.jpg	8.23
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/356_crop_11.jpg	40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/194_crop_1.jpg	K-K
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/373_crop_4.jpg	跳动:0.01:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/107_crop_32.jpg	10.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/218_crop_22.jpg	(4 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/330_crop_11.jpg	83.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/9_crop_15.jpg	φ67
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/89_crop_15.jpg	φ3.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/261_crop_15.jpg	2-C0.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/305_crop_24.jpg	45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/294_crop_35.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/225_crop_44.jpg	55.60(0, -0.5)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/441_crop_0.jpg	B-B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/272_crop_4.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/242_crop_2.jpg	φ15(0, -0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/198_crop_10.jpg	(5 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/37_crop_3.jpg	22
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/109_crop_64.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/225_crop_6.jpg	2-R0.75
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/438_crop_0.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/465_crop_16.jpg	R8.75
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/94_crop_7.jpg	37
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/393_crop_25.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/214_crop_4.jpg	φ3(+0.008, +0.002)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/343_crop_3.jpg	4-φ6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/88_crop_6.jpg	φ16(-0.01, -0.03)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/241_crop_10.jpg	11.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/76_crop_2.jpg	φ4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/311_crop_17.jpg	φ6 H7 (+0.012, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/295_crop_8.jpg	(22.63)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/514_crop_2.jpg	2°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/322_crop_3.jpg	2-R2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/15_crop_20.jpg	8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/412_crop_28.jpg	3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/329_crop_24.jpg	316
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/245_crop_26.jpg	127
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/330_crop_21.jpg	175
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/215_crop_9.jpg	46
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/89_crop_46.jpg	27
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/19_crop_20.jpg	R20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/134_crop_7.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/267_crop_13.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/33_crop_33.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/51_crop_18.jpg	φ48
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/113_crop_21.jpg	同心度:φ0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/198_crop_62.jpg	37
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/281_crop_25.jpg	0.50 × 30°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/244_crop_18.jpg	19
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/419_crop_1.jpg	φ10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/412_crop_6.jpg	φ3 H7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/89_crop_28.jpg	42.9±0.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/305_crop_11.jpg	φ7.60(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/408_crop_7.jpg	8-M4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/260_crop_41.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/191_crop_0.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/263_crop_6.jpg	11.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/488_crop_8.jpg	10.8(0, -0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/373_crop_33.jpg	R1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/45_crop_27.jpg	跳动:0.012:B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/27_crop_16.jpg	180
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/112_crop_32.jpg	9
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/343_crop_4.jpg	2-φ5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/321_crop_16.jpg	粗糙度:6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/311_crop_25.jpg	7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/230_crop_1.jpg	65
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/65_crop_11.jpg	φ1.95(0,-0.05) 
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/151_crop_8.jpg	90.7±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/244_crop_20.jpg	深度:15
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/388_crop_2.jpg	22
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/142_crop_20.jpg	1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/164_crop_53.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/86_crop_5.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/321_crop_20.jpg	70
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/252_crop_43.jpg	8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/5_crop_36.jpg	R1.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/15_crop_14.jpg	φ18.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/146_crop_6.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/378_crop_9.jpg	M17×0.75
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/410_crop_30.jpg	2(+0.2, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/344_crop_3.jpg	粗糙度:6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/249_crop_17.jpg	505
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/81_crop_24.jpg	φ5.40(-0.10, -0.15)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/110_crop_34.jpg	7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/369_crop_27.jpg	3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/225_crop_73.jpg	68.28°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/280_crop_42.jpg	45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/371_crop_16.jpg	60
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/247_crop_17.jpg	2 × 30°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/432_crop_3.jpg	51.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/466_crop_8.jpg	2-φ5.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/51_crop_8.jpg	粗糙度:12.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/305_crop_7.jpg	(10 : 1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/293_crop_1.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/312_crop_12.jpg	8.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/385_crop_5.jpg	φ40 H7 (+0.025, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/312_crop_36.jpg	25.98
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/121_crop_30.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/254_crop_18.jpg	15.25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/417_crop_17.jpg	12
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/330_crop_17.jpg	11
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/342_crop_26.jpg	821
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/297_crop_18.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/257_crop_15.jpg	R0.20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/408_crop_2.jpg	182.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/443_crop_0.jpg	10x45° (2x)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/351_crop_5.jpg	221
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/145_crop_12.jpg	φ1.95(0, -0.05)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/4_crop_22.jpg	同心度:φ0.04:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/374_crop_53.jpg	45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/465_crop_19.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/437_crop_13.jpg	53
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/142_crop_15.jpg	O 00.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/227_crop_2.jpg	130
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/374_crop_17.jpg	0.5 × 30°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/217_crop_29.jpg	9
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/311_crop_18.jpg	25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/219_crop_6.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/433_crop_5.jpg	48(0, -0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/217_crop_0.jpg	φ15.50(0, -0.2)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/374_crop_42.jpg	φ25±0.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/313_crop_15.jpg	9
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/247_crop_34.jpg	粗糙度:6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/300_crop_22.jpg	(35)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/15_crop_19.jpg	粗糙度:6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/151_crop_1.jpg	11.47±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/505_crop_8.jpg	2.6(0, -0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/87_crop_33.jpg	8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/411_crop_16.jpg	nicht magnetisierbar !
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/196_crop_1.jpg	0.75
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/263_crop_1.jpg	(33.80)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/223_crop_4.jpg	φ9(0, -0.2)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/5_crop_41.jpg	23
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/81_crop_0.jpg	K-K
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/265_crop_22.jpg	3.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/394_crop_16.jpg	50(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/260_crop_17.jpg	位置公差:φ0.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/281_crop_18.jpg	31±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/197_crop_9.jpg	49
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/272_crop_5.jpg	4-M4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/374_crop_27.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/65_crop_6.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/222_crop_7.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/507_crop_1.jpg	φ21
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/382_crop_9.jpg	跳动:0.1:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/245_crop_6.jpg	11.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/394_crop_6.jpg	15
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/311_crop_40.jpg	7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/408_crop_11.jpg	398.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/168_crop_7.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/260_crop_35.jpg	78.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/224_crop_55.jpg	5°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/14_crop_8.jpg	364
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/87_crop_29.jpg	1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/381_crop_9.jpg	R1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/239_crop_5.jpg	46.40(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/296_crop_8.jpg	1x45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/122_crop_19.jpg	φ3.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/428_crop_14.jpg	nicht erhaben
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/238_crop_7.jpg	22.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/45_crop_2.jpg	90
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/347_crop_20.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/458_crop_7.jpg	31
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/140_crop_1.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/74_crop_17.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/77_crop_1.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/509_crop_2.jpg	0.5 × 45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/321_crop_25.jpg	40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/12_crop_14.jpg	74
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/279_crop_47.jpg	R2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/308_crop_1.jpg	2-φ6.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/107_crop_9.jpg	59.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/55_crop_38.jpg	45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/224_crop_49.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/416_crop_12.jpg	2(+0.2, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/52_crop_15.jpg	R30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/330_crop_8.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/258_crop_35.jpg	深度:17
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/347_crop_25.jpg	95
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/483_crop_2.jpg	2°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/234_crop_0.jpg	100
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/75_crop_71.jpg	φ3H7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/221_crop_61.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/88_crop_14.jpg	9
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/220_crop_17.jpg	9
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/348_crop_0.jpg	粗糙度:6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/492_crop_3.jpg	9.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/365_crop_3.jpg	780
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/267_crop_11.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/33_crop_26.jpg	34
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/332_crop_13.jpg	75
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/437_crop_14.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/497_crop_16.jpg	17.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/258_crop_29.jpg	20.15 
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/15_crop_4.jpg	粗糙度:6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/315_crop_4.jpg	770
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/131_crop_7.jpg	同心度:φ0.025:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/297_crop_16.jpg	φ34.42
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/328_crop_4.jpg	80.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/147_crop_2.jpg	29
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/413_crop_0.jpg	Z (5:1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/392_crop_18.jpg	70
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/253_crop_24.jpg	平整度:0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/184_crop_6.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/323_crop_18.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/5_crop_32.jpg	25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/334_crop_6.jpg	9-R1.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/409_crop_5.jpg	430
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/95_crop_57.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/416_crop_4.jpg	118°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/326_crop_21.jpg	175.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/13_crop_18.jpg	φ30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/26_crop_7.jpg	φ55(+0.174, +0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/355_crop_0.jpg	4-M3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/280_crop_38.jpg	28.08±0.03
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/16_crop_12.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/48_crop_33.jpg	φ93
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/305_crop_21.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/224_crop_42.jpg	垂直度:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/146_crop_3.jpg	φ1.85(0, -0.05)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/37_crop_30.jpg	50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/261_crop_2.jpg	位置公差:φ0.4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/482_crop_3.jpg	11.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/23_crop_15.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/104_crop_2.jpg	0.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/164_crop_17.jpg	2-CO. 5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/244_crop_22.jpg	32
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/460_crop_2.jpg	0.80 × 45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/120_crop_1.jpg	2 : 1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/55_crop_37.jpg	26
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/218_crop_41.jpg	37
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/109_crop_17.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/81_crop_59.jpg	37
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/126_crop_2.jpg	15°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/192_crop_3.jpg	31
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/518_crop_13.jpg	M7×0.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/12_crop_21.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/304_crop_17.jpg	φ11 g6 (-0.006, -0.017)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/31_crop_24.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/443_crop_9.jpg	32
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/341_crop_9.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/153_crop_13.jpg	26.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/249_crop_35.jpg	365
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/265_crop_25.jpg	1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/74_crop_20.jpg	20°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/294_crop_36.jpg	50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/263_crop_29.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/332_crop_25.jpg	243
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/385_crop_17.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/287_crop_9.jpg	10.20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/347_crop_12.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/154_crop_2.jpg	46
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/466_crop_13.jpg	35
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/347_crop_22.jpg	30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/4_crop_23.jpg	6×φ6 EQS
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/267_crop_5.jpg	2-φ3.40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/248_crop_4.jpg	M14×1.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/16_crop_23.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/64_crop_22.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/328_crop_7.jpg	97
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/75_crop_24.jpg	φ3.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/37_crop_18.jpg	6×φ14
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/207_crop_39.jpg	同心度:φ0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/55_crop_9.jpg	12
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/139_crop_22.jpg	5 : 1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/7_crop_3.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/504_crop_2.jpg	4: 1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/184_crop_1.jpg	18.80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/259_crop_35.jpg	50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/440_crop_2.jpg	1.4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/242_crop_9.jpg	R0.40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/217_crop_7.jpg	72
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/502_crop_8.jpg	8(+0.2, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/379_crop_2.jpg	跳动:0.01:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/513_crop_3.jpg	14
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/226_crop_2.jpg	10.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/199_crop_0.jpg	φ3(+0.01, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/10_crop_1.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/498_crop_2.jpg	(2.5)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/223_crop_24.jpg	12
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/243_crop_21.jpg	M24×1.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/13_crop_9.jpg	(140.37)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/332_crop_33.jpg	18
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/119_crop_23.jpg	68.28°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/482_crop_5.jpg	12.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/70_crop_0.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/207_crop_64.jpg	φ5(-0.10, -0.15)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/150_crop_3.jpg	φ10.5(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/243_crop_18.jpg	φ68
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/325_crop_16.jpg	1.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/77_crop_3.jpg	7.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/477_crop_2.jpg	R1.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/225_crop_55.jpg	25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/207_crop_1.jpg	35±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/379_crop_9.jpg	深度:4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/281_crop_17.jpg	R1.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/370_crop_2.jpg	30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/275_crop_9.jpg	φ33.52
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/334_crop_14.jpg	357±0.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/167_crop_3.jpg	φ3 m6(+0.008, +0.002)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/108_crop_30.jpg	64.9±0.06
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/106_crop_16.jpg	(82.6)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/280_crop_10.jpg	10±0,05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/432_crop_5.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/303_crop_2.jpg	112.33
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/221_crop_0.jpg	K-K
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/26_crop_1.jpg	28
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/434_crop_17.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/164_crop_44.jpg	25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/380_crop_3.jpg	φ21 F7 (+0.041, +0.020)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/357_crop_15.jpg	10.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/47_crop_23.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/250_crop_8.jpg	C0.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/110_crop_13.jpg	1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/309_crop_3.jpg	160
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/13_crop_6.jpg	φ100
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/254_crop_11.jpg	17
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/2_crop_3.jpg	跳动:0.025:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/25_crop_19.jpg	同心度:0.01:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/132_crop_1.jpg	对称度:0.04:B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/109_crop_10.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/113_crop_22.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/331_crop_25.jpg	253.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/75_crop_73.jpg	1.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/300_crop_12.jpg	8.4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/256_crop_22.jpg	11.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/121_crop_13.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/164_crop_3.jpg	B-B
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/33_crop_12.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/207_crop_4.jpg	2.24
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/384_crop_9.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/248_crop_24.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/33_crop_29.jpg	φ10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/147_crop_14.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/503_crop_10.jpg	0.2min
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/222_crop_30.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/407_crop_20.jpg	4-15×45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/53_crop_13.jpg	13
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/222_crop_21.jpg	12
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/37_crop_54.jpg	12
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/320_crop_13.jpg	145°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/174_crop_1.jpg	φ2.6(0, -0.05)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/198_crop_18.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/299_crop_8.jpg	1.90(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/176_crop_12.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/333_crop_2.jpg	1.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/383_crop_7.jpg	58
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/323_crop_5.jpg	33±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/487_crop_7.jpg	(5.8)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/495_crop_4.jpg	x
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/431_crop_6.jpg	01
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/222_crop_4.jpg	φ7.50(-0.3, -0.5)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/46_crop_0.jpg	φ79
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/1_crop_15.jpg	粗糙度:12.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/356_crop_10.jpg	R3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/109_crop_3.jpg	2 : 1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/296_crop_19.jpg	φ11 g6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/355_crop_12.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/329_crop_27.jpg	1.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/199_crop_5.jpg	21±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/172_crop_1.jpg	φ2.6(0, -0.05)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/225_crop_28.jpg	φ9.5(0, -0.2)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/128_crop_6.jpg	80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/243_crop_9.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/51_crop_32.jpg	180
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/185_crop_8.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/380_crop_14.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/375_crop_10.jpg	深度:4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/198_crop_21.jpg	C-C
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/388_crop_16.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/280_crop_18.jpg	0.80 × 45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/153_crop_28.jpg	9.40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/259_crop_47.jpg	18
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/10_crop_22.jpg	45
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/329_crop_22.jpg	389
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/357_crop_14.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/215_crop_4.jpg	φ1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/465_crop_3.jpg	30°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/220_crop_38.jpg	5±0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/222_crop_16.jpg	72
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/431_crop_11.jpg	26
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/254_crop_19.jpg	15.25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/108_crop_34.jpg	49
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/29_crop_6.jpg	14
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/335_crop_27.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/10_crop_6.jpg	6N9(0, -0.030)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/225_crop_59.jpg	37
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/36_crop_12.jpg	φ20h6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/246_crop_8.jpg	2-φ6 H7(+0.012, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/75_crop_50.jpg	2 : 1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/259_crop_13.jpg	65
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/38_crop_17.jpg	3.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/340_crop_11.jpg	25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/235_crop_13.jpg	18
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/297_crop_17.jpg	30°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/147_crop_10.jpg	4-φ0.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/149_crop_6.jpg	φ17(0, -0.11)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/17_crop_3.jpg	φ16H8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/121_crop_10.jpg	8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/48_crop_29.jpg	4:1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/264_crop_9.jpg	深度:17
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/77_crop_0.jpg	φ3 f8(-0.006, -0.02)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/207_crop_65.jpg	95
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/180_crop_13.jpg	φ24(0, -0.03)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/349_crop_16.jpg	95
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/315_crop_7.jpg	430
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/187_crop_6.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/455_crop_15.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/265_crop_3.jpg	5.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/2_crop_1.jpg	φ220.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/518_crop_14.jpg	1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/50_crop_8.jpg	30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/103_crop_5.jpg	φ1.90
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/77_crop_4.jpg	1.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/256_crop_6.jpg	位置公差:φ0.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/462_crop_4.jpg	18.4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/407_crop_18.jpg	398.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/165_crop_5.jpg	φ2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/55_crop_8.jpg	位置公差:φ0.04
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/447_crop_13.jpg	47.97±0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/271_crop_5.jpg	50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/13_crop_1.jpg	200
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/253_crop_5.jpg	26.41
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/380_crop_13.jpg	φ16
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/5_crop_34.jpg	13
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/131_crop_17.jpg	30°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/263_crop_23.jpg	23
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/95_crop_24.jpg	同心度:φ0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/431_crop_25.jpg	01
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/351_crop_17.jpg	6-φ7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/249_crop_18.jpg	481
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/42_crop_7.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/136_crop_30.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/41_crop_11.jpg	SR20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/17_crop_18.jpg	17
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/326_crop_51.jpg	175.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/88_crop_7.jpg	0.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/188_crop_3.jpg	M4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/418_crop_6.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/50_crop_20.jpg	R36
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/123_crop_0.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/33_crop_31.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/372_crop_51.jpg	φ37.26
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/286_crop_8.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/381_crop_6.jpg	1.90(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/69_crop_10.jpg	φ1.01
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/260_crop_8.jpg	17
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/464_crop_2.jpg	112.33
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/306_crop_1.jpg	φ37.25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/482_crop_2.jpg	12.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/48_crop_1.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/505_crop_4.jpg	120°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/13_crop_8.jpg	φ20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/198_crop_45.jpg	120°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/461_crop_1.jpg	平行度:0.002:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/28_crop_6.jpg	φ56
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/373_crop_16.jpg	( 97.50 )
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/359_crop_2.jpg	798
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/14_crop_1.jpg	96
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/87_crop_13.jpg	54.9
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/285_crop_9.jpg	φ15
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/450_crop_4.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/266_crop_5.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/254_crop_39.jpg	56
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/296_crop_14.jpg	5.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/407_crop_34.jpg	182.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/132_crop_16.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/198_crop_14.jpg	1 × 20°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/416_crop_16.jpg	( 2 : 1 )
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/320_crop_0.jpg	4-R1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/253_crop_30.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/348_crop_10.jpg	R15.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/453_crop_6.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/366_crop_0.jpg	798
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/258_crop_2.jpg	跳动:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/81_crop_28.jpg	 φ3H8(+0.014, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/43_crop_23.jpg	7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/23_crop_9.jpg	3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/204_crop_0.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/408_crop_22.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/88_crop_3.jpg	φ3 H7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/247_crop_21.jpg	32
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/265_crop_17.jpg	粗糙度:6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/280_crop_7.jpg	φ21 F7(+0.041, +0.020)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/237_crop_1.jpg	4-φ6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/137_crop_1.jpg	2:1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/470_crop_6.jpg	5.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/433_crop_4.jpg	81.95(0, -0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/516_crop_4.jpg	17.5(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/369_crop_21.jpg	57
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/61_crop_9.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/89_crop_20.jpg	φ7.5(-0.3, -0.5)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/78_crop_3.jpg	2-0.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/410_crop_2.jpg	Y
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/75_crop_27.jpg	F
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/345_crop_6.jpg	80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/14_crop_30.jpg	18
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/52_crop_17.jpg	18
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/199_crop_21.jpg	12
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/12_crop_23.jpg	12
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/302_crop_4.jpg	φ25±0.05
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/111_crop_4.jpg	46
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/493_crop_9.jpg	7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/47_crop_13.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/344_crop_12.jpg	95°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/156_crop_38.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/59_crop_8.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/341_crop_3.jpg	50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/25_crop_11.jpg	61
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/89_crop_37.jpg	φ10 H7(+0.015, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/114_crop_4.jpg	φ4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/31_crop_22.jpg	φ30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/25_crop_15.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/383_crop_11.jpg	5.7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/112_crop_15.jpg	粗糙度:0.8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/16_crop_11.jpg	粗糙度:6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/310_crop_1.jpg	136
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/95_crop_1.jpg	55±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/135_crop_5.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/47_crop_2.jpg	1:10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/12_crop_33.jpg	60
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/12_crop_24.jpg	12
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/279_crop_0.jpg	粗糙度:6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/163_crop_4.jpg	5±0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/326_crop_19.jpg	172
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/407_crop_4.jpg	位置公差:φ0.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/164_crop_65.jpg	42.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/285_crop_13.jpg	50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/109_crop_50.jpg	21
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/259_crop_41.jpg	78.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/296_crop_15.jpg	φ3.05(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/180_crop_11.jpg	垂直度:0.04:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/50_crop_14.jpg	R8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/113_crop_75.jpg	0
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/113_crop_64.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/319_crop_6.jpg	100
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/25_crop_2.jpg	M12×30
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/168_crop_3.jpg	74.70
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/224_crop_53.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/509_crop_15.jpg	7.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/342_crop_20.jpg	94
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/378_crop_16.jpg	32.80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/318_crop_4.jpg	φ5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/95_crop_20.jpg	2-R0.75
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/280_crop_3.jpg	直度:0.01
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/201_crop_4.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/64_crop_11.jpg	1.7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/374_crop_33.jpg	15
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/23_crop_8.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/501_crop_16.jpg	φ24.34(+0.03, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/431_crop_17.jpg	02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/489_crop_5.jpg	φ4.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/33_crop_15.jpg	粗糙度:12.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/88_crop_27.jpg	20°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/260_crop_12.jpg	18.75 
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/278_crop_3.jpg	0.50 × 30°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/44_crop_3.jpg	φ45
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/340_crop_16.jpg	50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/88_crop_20.jpg	垂直度:0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/322_crop_27.jpg	61±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/285_crop_2.jpg	φ26
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/3_crop_4.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/4_crop_15.jpg	φ55g9
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/28_crop_1.jpg	4×φ6.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/274_crop_10.jpg	17.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/58_crop_8.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/389_crop_0.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/303_crop_1.jpg	137.33
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/53_crop_18.jpg	位置公差:φ0.3:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/323_crop_26.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/384_crop_16.jpg	70
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/374_crop_0.jpg	H-H
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/175_crop_1.jpg	φ8(0, -0.05)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/187_crop_5.jpg	SR0.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/37_crop_6.jpg	φ30H7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/340_crop_8.jpg	355
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/17_crop_20.jpg	40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/286_crop_19.jpg	60
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/417_crop_5.jpg	25±0.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/392_crop_25.jpg	64
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/221_crop_52.jpg	φ1.50 H7
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/27_crop_13.jpg	R8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/48_crop_39.jpg	φ95H6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/389_crop_5.jpg	9.9(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/200_crop_2.jpg	φ2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/224_crop_38.jpg	11.60
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/327_crop_14.jpg	6-1.6(+0.2, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/11_crop_27.jpg	40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/220_crop_33.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/274_crop_1.jpg	60
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/207_crop_15.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/257_crop_28.jpg	深度:13
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/248_crop_12.jpg	位置公差:φ0.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/218_crop_10.jpg	11.60
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/16_crop_6.jpg	25
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/454_crop_11.jpg	nicht erhaben
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/312_crop_9.jpg	φ19.2(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/507_crop_6.jpg	6.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/244_crop_38.jpg	位置公差:φ0.2:A|B|C
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/63_crop_8.jpg	φ1.90(0, -0.02)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/45_crop_1.jpg	粗糙度:12.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/199_crop_30.jpg	同心度:φ0.02:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/169_crop_2.jpg	46
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/142_crop_8.jpg	A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/314_crop_3.jpg	12
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/294_crop_6.jpg	128±0.02
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/383_crop_20.jpg	80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/104_crop_6.jpg	φ1.44
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/335_crop_2.jpg	182.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/56_crop_1.jpg	L=138, 148
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/325_crop_14.jpg	34.50
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/377_crop_8.jpg	3.60(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/218_crop_30.jpg	φ5.4(-0.10, -0.15)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/518_crop_8.jpg	5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/221_crop_66.jpg	21
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/281_crop_5.jpg	跳动:0.01:A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/88_crop_23.jpg	φ3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/217_crop_34.jpg	2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/122_crop_38.jpg	φ3 H8(+0.014, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/412_crop_16.jpg	φ2(+0.2, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/327_crop_0.jpg	位置公差:0.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/225_crop_56.jpg	27
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/374_crop_43.jpg	φ21 F7 (+0.041, +0.020)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/103_crop_0.jpg	A-A
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/373_crop_37.jpg	15
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/322_crop_25.jpg	47±0.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/158_crop_1.jpg	0.3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/280_crop_52.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/224_crop_65.jpg	55.60
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/243_crop_10.jpg	φ45
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/253_crop_20.jpg	φ40 H7 (+0.025, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/436_crop_5.jpg	115
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/372_crop_49.jpg	圆度:0.01
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/75_crop_59.jpg	37
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/306_crop_16.jpg	160(0, -0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/306_crop_11.jpg	42
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/259_crop_20.jpg	0.5 × 45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/113_crop_9.jpg	M4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/13_crop_36.jpg	20
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/259_crop_44.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/281_crop_32.jpg	90°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/195_crop_4.jpg	40
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/297_crop_13.jpg	21
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/75_crop_5.jpg	粗糙度:1.6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/119_crop_10.jpg	59.1
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/198_crop_52.jpg	φ2.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/256_crop_37.jpg	134(+0.1, 0)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/509_crop_6.jpg	φ21
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/6_crop_0.jpg	200
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/258_crop_43.jpg	114
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/219_crop_3.jpg	φ1.50 m6 (+0.008, +0.002)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/41_crop_6.jpg	粗糙度:3.2
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/299_crop_25.jpg	4
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/468_crop_2.jpg	67
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/21_crop_0.jpg	70
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/38_crop_18.jpg	6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/236_crop_3.jpg	4-φ6
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/295_crop_6.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/416_crop_23.jpg	φ10(+0.5, +0.2)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/327_crop_2.jpg	182.80
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/376_crop_11.jpg	31
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/49_crop_4.jpg	φ28
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/49_crop_6.jpg	10
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/18_crop_1.jpg	7(+0.00, -0.05)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/279_crop_10.jpg	φ16
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/95_crop_43.jpg	M3
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/72_crop_13.jpg	8
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/81_crop_48.jpg	5°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/372_crop_23.jpg	45°
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/500_crop_5.jpg	φ9(0, -0.1)
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/322_crop_9.jpg	9
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/320_crop_14.jpg	44.36
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/515_crop_9.jpg	2.5
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/260_crop_15.jpg	51.50 
+/home/linkedata/projects/ai/PaddleOCR/train_data/drawing/rec/val/331_crop_11.jpg	4-R2
