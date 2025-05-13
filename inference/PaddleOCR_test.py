@@ -6,8 +6,8 @@ import matplotlib.pyplot as plt
 # Paddleocr supports Chinese, English, French, German, Korean and Japanese
 # You can set the parameter `lang` as `ch`, `en`, `french`, `german`, `korean`, `japan`
 # to switch the language model in order
+det_model_dir='./inference/250422/ch_PP-OCRv4_det/Student'
 rec_model_dir='./inference/ch_PP-OCRv4_rec'
-det_model_dir='./inference/ch_PP-OCRv4_det/Student'
 # ocr = PaddleOCR() 
 # ocr = PaddleOCR(use_angle_cls=True, rec_model_dir=rec_model_dir, det_model_dir=det_model_dir) 
 ocr = PaddleOCR(
@@ -18,8 +18,8 @@ ocr = PaddleOCR(
 out_dir = './inference/out'
 img_dir = './inference/data'
 
-# img_name = 'feature1.jpg'
-img_name = 'feature2.jpg'
+img_name = 'feature1.jpg'
+# img_name = 'feature2.jpg'
 img_path = f'{img_dir}/{img_name}'
 out_path = f'{out_dir}/{img_name}'
 result = ocr.ocr(img_path, cls=True)
@@ -42,7 +42,7 @@ scores = [line[1][1] for line in result]
 # im_show.save(out_path, quality=100)
 
 # 自己画吧
-result_name = 'feature2_result5'
+result_name = 'feature1_result7'
 image = plt.imread(img_path)
 canvas = drawBoxes(image, boxes, thickness=1)
 text_seq = draw_ocr_seq(canvas, boxes, txts, scores, font_path='/home/linkedata/projects/ai/MultiModal/ocr/data/font/simfang.ttf')
